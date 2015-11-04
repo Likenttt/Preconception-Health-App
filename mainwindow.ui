@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="windowModality">
+   <enum>Qt::NonModal</enum>
+  </property>
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>881</width>
+    <height>757</height>
+   </rect>
+  </property>
+  <property name="sizePolicy">
+   <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+    <horstretch>0</horstretch>
+    <verstretch>0</verstretch>
+   </sizepolicy>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>1463</width>
+    <height>996</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string/>
+  </property>
+  <property name="toolTipDuration">
+   <number>0</number>
+  </property>
+  <property name="layoutDirection">
+   <enum>Qt::LeftToRight</enum>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="sizePolicy">
+    <sizepolicy hsizetype="Preferred" vsizetype="Preferred">
+     <horstretch>0</horstretch>
+     <verstretch>0</verstretch>
+    </sizepolicy>
+   </property>
+   <property name="minimumSize">
+    <size>
+     <width>0</width>
+     <height>0</height>
+    </size>
+   </property>
+   <property name="layoutDirection">
+    <enum>Qt::LeftToRight</enum>
+   </property>
+   <layout class="QGridLayout" name="gridLayout_3">
+    <property name="leftMargin">
+     <number>0</number>
+    </property>
+    <property name="topMargin">
+     <number>0</number>
+    </property>
+    <property name="rightMargin">
+     <number>0</number>
+    </property>
+    <property name="bottomMargin">
+     <number>0</number>
+    </property>
+    <property name="spacing">
+     <number>0</number>
+    </property>
+    <item row="0" column="1">
+     <widget class="QGroupBox" name="groupBox_2">
+      <property name="sizePolicy">
+       <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+        <horstretch>0</horstretch>
+        <verstretch>0</verstretch>
+       </sizepolicy>
+      </property>
+      <property name="minimumSize">
+       <size>
+        <width>50</width>
+        <height>50</height>
+       </size>
+      </property>
+      <property name="font">
+       <font>
+        <pointsize>16</pointsize>
+        <weight>75</weight>
+        <italic>true</italic>
+        <bold>true</bold>
+        <underline>true</underline>
+       </font>
+      </property>
+      <property name="autoFillBackground">
+       <bool>true</bool>
+      </property>
+      <property name="title">
+       <string/>
+      </property>
+      <property name="flat">
+       <bool>true</bool>
+      </property>
+      <layout class="QGridLayout" name="gridLayout_2">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item row="0" column="0">
+        <layout class="QGridLayout" name="gridLayout_8">
+         <property name="spacing">
+          <number>0</number>
+         </property>
+         <item row="1" column="0">
+          <spacer name="verticalSpacer">
+           <property name="orientation">
+            <enum>Qt::Vertical</enum>
+           </property>
+           <property name="sizeType">
+            <enum>QSizePolicy::Minimum</enum>
+           </property>
+           <property name="sizeHint" stdset="0">
+            <size>
+             <width>20</width>
+             <height>20</height>
+            </size>
+           </property>
+          </spacer>
+         </item>
+         <item row="7" column="0">
+          <layout class="QGridLayout" name="gridLayout_7">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+           <item row="0" column="0">
+            <widget class="QPushButton" name="backButton">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="minimumSize">
+              <size>
+               <width>62</width>
+               <height>100</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <pointsize>16</pointsize>
+               <weight>75</weight>
+               <bold>true</bold>
+              </font>
+             </property>
+             <property name="focusPolicy">
+              <enum>Qt::NoFocus</enum>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+             </property>
+             <property name="text">
+              <string>&lt;</string>
+             </property>
+            </widget>
+           </item>
+           <item row="0" column="1">
+            <spacer name="horizontalSpacer_2">
+             <property name="orientation">
+              <enum>Qt::Horizontal</enum>
+             </property>
+             <property name="sizeHint" stdset="0">
+              <size>
+               <width>40</width>
+               <height>20</height>
+              </size>
+             </property>
+            </spacer>
+           </item>
+           <item row="0" column="2">
+            <widget class="QPushButton" name="loadButton">
+             <property name="sizePolicy">
+              <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+               <horstretch>0</horstretch>
+               <verstretch>0</verstretch>
+              </sizepolicy>
+             </property>
+             <property name="minimumSize">
+              <size>
+               <width>62</width>
+               <height>100</height>
+              </size>
+             </property>
+             <property name="font">
+              <font>
+               <pointsize>16</pointsize>
+               <weight>75</weight>
+               <bold>true</bold>
+              </font>
+             </property>
+             <property name="focusPolicy">
+              <enum>Qt::NoFocus</enum>
+             </property>
+             <property name="styleSheet">
+              <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+             </property>
+             <property name="text">
+              <string>&gt;</string>
+             </property>
+            </widget>
+           </item>
+          </layout>
+         </item>
+         <item row="0" column="0">
+          <widget class="QPushButton" name="moreInfo">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>62</width>
+             <height>40</height>
+            </size>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>16</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
+            </font>
+           </property>
+           <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+           </property>
+           <property name="text">
+            <string>Reset Quiz</string>
+           </property>
+          </widget>
+         </item>
+         <item row="6" column="0">
+          <layout class="QGridLayout" name="gridLayout_5">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+          </layout>
+         </item>
+         <item row="4" column="0">
+          <widget class="QGroupBox" name="groupBox_3">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>0</width>
+             <height>50</height>
+            </size>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>16</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
+            </font>
+           </property>
+           <property name="layoutDirection">
+            <enum>Qt::LeftToRight</enum>
+           </property>
+           <property name="title">
+            <string>Rate Your Knowledge</string>
+           </property>
+           <property name="alignment">
+            <set>Qt::AlignCenter</set>
+           </property>
+           <property name="flat">
+            <bool>true</bool>
+           </property>
+           <layout class="QGridLayout" name="gridLayout_12">
+            <property name="leftMargin">
+             <number>0</number>
+            </property>
+            <property name="topMargin">
+             <number>0</number>
+            </property>
+            <property name="rightMargin">
+             <number>0</number>
+            </property>
+            <property name="bottomMargin">
+             <number>0</number>
+            </property>
+            <property name="spacing">
+             <number>0</number>
+            </property>
+            <item row="1" column="0">
+             <layout class="QGridLayout" name="gridLayout_11">
+              <property name="spacing">
+               <number>0</number>
+              </property>
+              <item row="0" column="1">
+               <widget class="QRadioButton" name="radioButton2">
+                <property name="font">
+                 <font>
+                  <pointsize>12</pointsize>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="focusPolicy">
+                 <enum>Qt::NoFocus</enum>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">QRadioButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+                </property>
+                <property name="text">
+                 <string>Almost</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="0">
+               <widget class="QRadioButton" name="radioButton1">
+                <property name="font">
+                 <font>
+                  <pointsize>12</pointsize>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="focusPolicy">
+                 <enum>Qt::NoFocus</enum>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">QRadioButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+                </property>
+                <property name="text">
+                 <string>No Clue</string>
+                </property>
+               </widget>
+              </item>
+              <item row="0" column="2">
+               <widget class="QRadioButton" name="radioButton3">
+                <property name="font">
+                 <font>
+                  <pointsize>12</pointsize>
+                  <weight>75</weight>
+                  <bold>true</bold>
+                 </font>
+                </property>
+                <property name="focusPolicy">
+                 <enum>Qt::NoFocus</enum>
+                </property>
+                <property name="styleSheet">
+                 <string notr="true">QRadioButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+                </property>
+                <property name="text">
+                 <string>Got it!</string>
+                </property>
+               </widget>
+              </item>
+             </layout>
+            </item>
+            <item row="0" column="0">
+             <spacer name="verticalSpacer_3">
+              <property name="orientation">
+               <enum>Qt::Vertical</enum>
+              </property>
+              <property name="sizeType">
+               <enum>QSizePolicy::Fixed</enum>
+              </property>
+              <property name="sizeHint" stdset="0">
+               <size>
+                <width>20</width>
+                <height>60</height>
+               </size>
+              </property>
+             </spacer>
+            </item>
+           </layout>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QTextBrowser" name="textBrowser">
+           <property name="font">
+            <font>
+             <pointsize>20</pointsize>
+            </font>
+           </property>
+           <property name="acceptDrops">
+            <bool>false</bool>
+           </property>
+           <property name="layoutDirection">
+            <enum>Qt::LeftToRight</enum>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::NoFrame</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Plain</enum>
+           </property>
+           <property name="verticalScrollBarPolicy">
+            <enum>Qt::ScrollBarAlwaysOff</enum>
+           </property>
+           <property name="sizeAdjustPolicy">
+            <enum>QAbstractScrollArea::AdjustToContents</enum>
+           </property>
+           <property name="textInteractionFlags">
+            <set>Qt::LinksAccessibleByKeyboard|Qt::LinksAccessibleByMouse</set>
+           </property>
+           <property name="openExternalLinks">
+            <bool>false</bool>
+           </property>
+          </widget>
+         </item>
+         <item row="5" column="0">
+          <widget class="QPushButton" name="showMe">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>62</width>
+             <height>20</height>
+            </size>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>16</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
+            </font>
+           </property>
+           <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+           </property>
+           <property name="text">
+            <string>Show Answer</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item row="0" column="0" rowspan="2">
+     <widget class="QWidget" name="groupBox" native="true">
+      <layout class="QGridLayout" name="gridLayout">
+       <property name="leftMargin">
+        <number>0</number>
+       </property>
+       <property name="topMargin">
+        <number>0</number>
+       </property>
+       <property name="rightMargin">
+        <number>0</number>
+       </property>
+       <property name="bottomMargin">
+        <number>0</number>
+       </property>
+       <property name="spacing">
+        <number>0</number>
+       </property>
+       <item row="0" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_2">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <family>MS Shell Dlg 2</family>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+           <kerning>false</kerning>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+border-image: url( :/simb)10 -500  20 0  ;
+             
+               
+ 
+ border-radius: 22px;
+   color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;
+    border-radius: 22px;
+  
+ 
+
+}</string>
+         </property>
+         <property name="text">
+          <string>dfadfadf</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+    border-image: url( :/ahc)10 -500  20 0 ;
+
+
+    border-radius: 22px;
+    color: #66FFFF;;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_3">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+     border-image: url( :/nut)10 -500  20 0 ;
+
+    border-radius: 22px;
+color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_4">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+    border-image: url( :/pa)10 -500  20 0 ;
+
+
+    border-radius: 22px;
+color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_5">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+        border-image: url( :/smoke)10 -475  10 10  ;
+
+			
+
+    border-radius: 22px;
+color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_6">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+      border-image: url( :/mh)10 -500  20 0 ;
+
+    border-radius: 22px;color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_7">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+    border-image: url( :/ipv)10 -500  20 0 ;
+
+    border-radius: 22px;
+ color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="7" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_8">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+       border-image: url( :/danda)10 -500  20 0 ;
+
+    border-radius: 22px;
+ color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="8" column="0" colspan="2">
+        <widget class="QPushButton" name="pushButton_9">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {
+       border-image: url( :/env)10 -500  20 0 ;
+
+    border-radius: 22px;
+color: #66FFFF;
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string/>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="0">
+        <widget class="QPushButton" name="pushButton_10">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>62</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string>About</string>
+         </property>
+        </widget>
+       </item>
+       <item row="9" column="1">
+        <widget class="QPushButton" name="pushButton_11">
+         <property name="sizePolicy">
+          <sizepolicy hsizetype="Expanding" vsizetype="Fixed">
+           <horstretch>0</horstretch>
+           <verstretch>0</verstretch>
+          </sizepolicy>
+         </property>
+         <property name="minimumSize">
+          <size>
+           <width>62</width>
+           <height>100</height>
+          </size>
+         </property>
+         <property name="font">
+          <font>
+           <pointsize>16</pointsize>
+           <weight>75</weight>
+           <bold>true</bold>
+          </font>
+         </property>
+         <property name="focusPolicy">
+          <enum>Qt::NoFocus</enum>
+         </property>
+         <property name="styleSheet">
+          <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+         </property>
+         <property name="text">
+          <string>Reset Scores</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+      <zorder>pushButton_2</zorder>
+      <zorder>pushButton</zorder>
+      <zorder>pushButton_4</zorder>
+      <zorder>pushButton_6</zorder>
+      <zorder>pushButton_3</zorder>
+      <zorder>pushButton_11</zorder>
+      <zorder>pushButton_8</zorder>
+      <zorder>pushButton_9</zorder>
+      <zorder>pushButton_5</zorder>
+      <zorder>pushButton</zorder>
+      <zorder>pushButton_2</zorder>
+      <zorder>pushButton_4</zorder>
+      <zorder>pushButton_7</zorder>
+      <zorder>pushButton_6</zorder>
+      <zorder>pushButton_10</zorder>
+      <zorder>pushButton_3</zorder>
+     </widget>
+    </item>
+   </layout>
+   <zorder>groupBox_2</zorder>
+   <zorder>pushButton_2</zorder>
+   <zorder>pushButton_3</zorder>
+   <zorder>pushButton_5</zorder>
+   <zorder>pushButton_6</zorder>
+   <zorder>pushButton_7</zorder>
+   <zorder>groupBox</zorder>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections>
+  <connection>
+   <sender>showMe</sender>
+   <signal>clicked()</signal>
+   <receiver>groupBox_3</receiver>
+   <slot>show()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>776</x>
+     <y>855</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>776</x>
+     <y>740</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>showMe</sender>
+   <signal>clicked()</signal>
+   <receiver>showMe</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>776</x>
+     <y>855</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>776</x>
+     <y>855</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>loadButton</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>forwardLayout()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1169</x>
+     <y>933</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>799</x>
+     <y>564</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>backButton</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>backLayout()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>722</x>
+     <y>933</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>329</x>
+     <y>608</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>showMe</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>loadAnswer()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>776</x>
+     <y>855</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>799</x>
+     <y>422</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_8</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initAandD()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>91</x>
+     <y>586</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>7</x>
+     <y>419</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>radioButton1</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setRadio1()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>734</x>
+     <y>778</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>793</x>
+     <y>186</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>radioButton2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setRadio2()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>949</x>
+     <y>778</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>799</x>
+     <y>235</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>radioButton3</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>setradio3()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>1165</x>
+     <y>778</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>799</x>
+     <y>291</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_2</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initSIMB()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>495</x>
+     <y>75</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>577</x>
+     <y>-33</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initAHC()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>616</x>
+     <y>134</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>782</x>
+     <y>-80</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_3</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initHE()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>575</x>
+     <y>197</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>755</x>
+     <y>-53</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_4</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initPA()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>516</x>
+     <y>281</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>874</x>
+     <y>-54</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_5</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initSmoke()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>633</x>
+     <y>344</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>941</x>
+     <y>-80</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_6</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initMH()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>502</x>
+     <y>419</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>935</x>
+     <y>-20</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_7</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initIPV()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>443</x>
+     <y>495</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>797</x>
+     <y>-9</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_9</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initHENV()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>614</x>
+     <y>619</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>729</x>
+     <y>-16</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>moreInfo</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>resetCurrentQuiz()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>752</x>
+     <y>82</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>283</x>
+     <y>1</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>moreInfo</sender>
+   <signal>clicked()</signal>
+   <receiver>moreInfo</receiver>
+   <slot>hide()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>830</x>
+     <y>94</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>1011</x>
+     <y>108</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_10</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>initAbout()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>64</x>
+     <y>836</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>28</x>
+     <y>1022</y>
+    </hint>
+   </hints>
+  </connection>
+  <connection>
+   <sender>pushButton_11</sender>
+   <signal>clicked()</signal>
+   <receiver>MainWindow</receiver>
+   <slot>quizReset()</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>471</x>
+     <y>798</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>364</x>
+     <y>750</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+ <slots>
+  <signal>onRotate()</signal>
+  <signal>signal2()</signal>
+  <slot>setBack()</slot>
+  <slot>initSmoke()</slot>
+  <slot>loadAnswer()</slot>
+  <slot>forwardLayout()</slot>
+  <slot>backLayout()</slot>
+  <slot>openPage()</slot>
+  <slot>loadWeb()</slot>
+  <slot>initAandD()</slot>
+  <slot>setRadio1()</slot>
+  <slot>setRadio2()</slot>
+  <slot>setradio3()</slot>
+  <slot>quizReset()</slot>
+  <slot>initSIMB()</slot>
+  <slot>initAHC()</slot>
+  <slot>initHE()</slot>
+  <slot>initPA()</slot>
+  <slot>initMH()</slot>
+  <slot>initIPV()</slot>
+  <slot>initHENV()</slot>
+  <slot>resetCurrentQuiz()</slot>
+  <slot>initAbout()</slot>
+ </slots>
+</ui>

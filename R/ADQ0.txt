@@ -1,0 +1,42 @@
+﻿<div class="entry-content">
+{0
+						<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;">Alcohol and Drugs</span></em></p>
+<p>Alcohol is the most common cause of liver failure and other serious health problems, like cancer, for adults.&nbsp; Alcohol can cause miscarriage, still birth and a huge list of lifelong problems for a child.&nbsp; These are known as fetal alcohol spectrum disorders (FASDs).&nbsp; It is critically important for a woman to stop drinking alcohol before she becomes pregnant and not drink all the way through her pregnancy. Alcohol is involved in half of all deadly car accidents, a majority of sexually transmitted infections and most cases of domestic violence. Women have a lower tolerance than men to the negative effects of alcohol.&nbsp; Refuse to be a passenger in a car when you know the driver has been drinking or is impaired with any substance.&nbsp; Of course, do not drink and then drive.&nbsp; Make sure everyone uses their seatbelt and the driver is not texting or talking on the cell phone or doing anything else but driving.</p>
+0}
+{1
+<p><strong>What is one of the many disorders associated with Fetal Alcohol Spectrum Disorders (FASDs</strong>)?</p>
+1}
+<p>Some of the FASD disorders a child may suffer are abnormal facial features, lower than average height and weight, small head size, problems with attention, hyperactivity, poor coordination and intellectual disabilities.&nbsp; FASDs are 100% preventable! The CDC urges pregnant women not to drink alcohol at any time during pregnancy.</p>
+<p><a href="http://cdc.gov/ncbddd/fasd/alcohol-use.html">http://cdc.gov/ncbddd/fasd/alcohol-use.html</a></p>
+{2
+<p><strong>How long before getting pregnant should a woman stop drinking alcohol and using street drugs?</strong></p>
+2}
+<p>Three months is a good lead time to stop.&nbsp; Men should stop as well because it takes three months for a sperm to mature in the man and these substances can damage the sperm. If someone is not using birth control and is engaging in intercourse, a pregnancy is likely sooner than later.&nbsp; This should be considered with any substance use prior to being pregnant.</p>
+{3
+<p><strong>What is the daily amount of alcohol that is considered acceptable for most women when NOT pregnant?</strong></p>
+
+<li><strong>a.) 3 - 5 drinks per day</strong></li>
+<li><strong>b.) 2 drinks per day</strong></li>
+<li><strong>c.) 1 drink per day</strong></li>
+
+3}
+<p>c) 1 drink per day. None, if pregnant. For young men, it is 2 per day, less for older men. If you are drinking more than this and binge drink (4 or more drinks per day) or using street drugs, you might think about telling your health care provider.&nbsp; Statistically, people are more likely to stop drinking, using tobacco, non-prescribed medications (e.g. opioids) and street drugs if they talk it over with their health care provider.Need help? Go to:</p>
+<p><a href="http://findtreatment.samhsa.gov/">http://findtreatment.samhsa.gov/</a></p>
+{4
+<p><strong>True or False? Alcohol, tobacco and drug use for women before pregnancy is the strongest indication of their use during pregnancy.</strong></p>
+4}
+<p>True.&nbsp; It can be hard to stop drinking, smoking, using non-prescribed pharmaceuticals and other drugs just like that.&nbsp; But, for the woman’s health and the health of her pregnancy it is best for her to stop these behaviors if she is having intercourse and not using birth control or if she is pregnant.&nbsp; Check out the link below for substance use and pregnancy.</p>
+<p><a href="http://www.healthline.com/health/pregnancy/alcohol-drugs#2">http://www.healthline.com/health/pregnancy/alcohol-drugs#2</a></p>
+{5
+<p><strong>Whether a pregnancy is planned or not, should a woman (and her male partner) talk to their health care provider about any non-prescribed and prescribed medications, street drugs, over the counter medications, dietary and herbal supplements they are taking?</strong></p>
+5}
+<p>Yes.&nbsp; Some of these substances used by the woman and man before pregnancy can cause a problem for mom and for the pregnancy.&nbsp; Some prescriptions, such as retinoids, anticonvulsants, antidepressants, antifungals, fertility drugs and pain killers (opioides!) also cause birth defects.&nbsp; Tell your medical provider the medications, street drugs, supplements and herbal products you are taking and the alternative health practices you may be using.&nbsp; Most dietary supplements have not been tested on pregnant women, nursing mothers or children.&nbsp; Search “nccam time to talk” for “patient” tips on how to talk with your health care provider about this information.&nbsp; Go to “More Info” on medications that cause birth defects.&nbsp; Note the “mother to baby” Hotline 866-626-6847.</p>
+<p><a href="http://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118567.htm">http://www.fda.gov/ForConsumers/ByAudience/ForWomen/ucm118567.htm</a></p>
+{6
+<p><strong>Should energy drinks like Red Bull, Monster Energy Assault and Rockstar be avoided or used with moderation?&nbsp;</strong></p>
+6}
+<p>Yes.&nbsp; Energy drinks pose potential health hazards, especially when mixed with alcohol.&nbsp; Many products are high in caffeine and should be avoided in excess by men and women before pregnancy and avoided by women during their prenatal period. &nbsp;Press “More Info” for a CDC podcast on the effects of energy drinks.</p>
+<p><a href="http://www2c.cdc.gov/podcasts/player.asp?f=8626332">http://www2c.cdc.gov/podcasts/player.asp?f=8626332</a></p>
+
+						<div style="clear:both;"></div>
+																	</div>

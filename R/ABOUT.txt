@@ -1,0 +1,30 @@
+{0
+<strong>PreConception Health...Now!</strong></p>
+
+<p>...  is an app for anyone of reproductive age.</p>
+
+<p>The purpose of this app is to increase your health knowledge and encourage you to take steps toward better health.&nbsp; This improvement in health will not only be good for you and those that love you, but will increase the odds that any pregnancy and child that you may have or may father, will be healthy too.&nbsp; If you never want to get pregnant or father a child, it does not matter.&nbsp; You will have achieved better health.&nbsp; Health is wealth.&nbsp; You win BIG time.</p>
+
+<p><strong>Self-Scoring:<strong></p>
+
+<p>This is an interactive app of questions and answers. You score yourself on how you think you answered each question. The scoring is private. Each page has one health question. After reading the question, think for a moment to see if you know the answer. Then, when you touch the "Show Answer" button, the answer will appear. After reading the answer, score yourself. If you felt you had no clue about the answer, touch "no clue" (for one point). If you had some idea of the answer, touch "almost" (two points). If you got pretty close or spot on to the answer, touch "got it" (three points).</p>
+<p>Then if you want, touch the weblink provided below the answer to get more information. You can go as deep as you want into that link and be able, with one touch to get back to the app's question page, by clicking the android back button.</p>
+
+<p><strong>Sharing:<strong></p>
+
+<p>Take your time with the app because there is a lot of helpful information available. You will learn and hopefully improve your health along the way. Share what you learn whenever you have the opportunity. Some of what you learn may not apply directly to you but may be of value to someone you love.</p>
+
+<p><strong>Enjoy and be healthy and happy!</strong></p>
+
+<p>Kids Connected By Design, Inc., St. Lucie County,&nbsp; Florida <a href="http://www.kidsconnectedbydesign.org" target="_blank">Kids Connected By Design</a></p>
+
+<p>Michael Panella, M. Ed., Author</p
+
+<p>Paul Gobes, ios Developer</p>
+
+<p>Shane Harmon, Android Developer</p>
+
+<p>To leave feedback for the developers, <a href="mailto:preconceptionhealthApp@gmail.com" target="_blank">Leave Feedback</a></p>
+
+<p>In memory of Sylvie Kramer Marceau, a champion and inspiration for preconception health.</p>
+0}

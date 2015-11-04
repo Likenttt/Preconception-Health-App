@@ -1,0 +1,124 @@
+{0
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;">Access to Health Care</span></em></p>
+<p>People with a usual source of health care have better health. Having a primary care provider (a family physician or nurse practitioner) as the usual source of care is especially important.&nbsp; A primary care provider can develop meaningful and sustained relationships with their patients.&nbsp; Having a primary care provider increases the chances that illness is prevented.&nbsp; Prevention is, after-all, nine-tenths of the cure.&nbsp; Also, a primary care provider can detect early warning signs and if disease is detected earlier, it is more likely at a curable or treatable stage. We all need a primary care provider, whether or not you are female or male, want to get pregnant now, later or never.&nbsp; If you want to know more about health insurance with the Affordable Care Act ("Health Care Reform") call 800-318-2596 to talk to a real person (called a "navigator") or click here <a href="http://www.healthcare.gov">More Info</a>.</p>
+0}
+
+{1
+
+<p><strong>Have you had a medical checkup in the last year?</strong></p>
+1}
+<p>Need to sign up for Health Care Reform? Click on the link below or call 800-318-2596 (www.healthcare.gov).</p>
+<p><a href="https://www.healthcare.gov">https://www.healthcare.gov</a></p>
+
+{2
+
+<p><strong>Have you made plans about how you want the next part of your life to go? This includes thinking about if and when you plan to get pregnant.</strong></p>
+2}
+<p>Check out the link below for a worksheet to help you think this through.</p>
+<p><a href="http://www.cdc.gov/preconception/reproductiveplan.html">http://www.cdc.gov/preconception/reproductiveplan.html</a></p>
+
+{3
+
+<p><strong>Do you know any of the preventative services that the Affordable Care Act (Health Care Reform) provides at no cost?&nbsp;</strong></p>
+3}
+<p>There are 22 preventative services for Women: Anemia, Bacteriuria, BRC, Breast Cancer Mammography, Breast Cancer Chemoprevention, Breastfeeding, Cervical Cancer Screening, Chlamydia Infection Screening, Contraception, Domestic and Interpersonal Violence Screening, Folic Acid Supplements, Gestational Diabetes Screening, Gonorrhea Screening, Hepatitis B Screening, Human Immunodeficiency Virus (HIV) Screening, Human Papillomavirus (HPV) DNA Testing, Osteoporosis Screening, Rh Incompatibility Screening, Tobacco Use Screening, Sexually Transmitted Infections (STI) Counseling, Syphilis Screening and Well-woman Visits. Call 800-318-2596 or go to &nbsp;<a href="https://www.healthcare.gov/what-are-my-preventive-care-benefits/">https://www.healthcare.gov/what-are-my-preventive-care-benefits/</a> on preventative services for adults, women and children.&nbsp; Go to the "Get Coverage" if you need insurance.</p>
+
+{4
+
+<p><strong>What should a woman do to prepare if she wants to get pregnant in the next year?&nbsp;</strong></p>
+4}
+<p>She should get a medical checkup for her health and for the health of her pregnancy.&nbsp; Click the link below for a preconception printable checklist, "Show Your Love – Steps for a Healthier Me and Baby to Be".</p>
+<p><a href="http://www.cdc.gov/preconception/showyourlove/documents/Healthier_Baby_Me_Plan.pdf">http://www.cdc.gov/preconception/showyourlove/documents/Healthier_Baby_Me_Plan.pdf</a></p>
+
+{5
+
+<p><strong>The time between pregnancies is called the inter-conception period (baby spacing).&nbsp; Should a woman who has been pregnant before and wants to get pregnant soon be concerned about her inter-conception health?&nbsp;</strong></p>
+5}
+<p>Yes, the woman's health may have changed since she was last pregnant.&nbsp; If there was a problem with the last pregnancy her health care provider may be able to help her avoid the problem this time.&nbsp; The minimum period of time between pregnancies is 18-24 months.&nbsp; Most experts recommend 2 years between pregnancies and agree that waiting 3-5 years is best.&nbsp; for more info on baby spacing.</p>
+<p><a href="http://www.healthyicc.org/your-health/baby-spacing">http://www.healthyicc.org/your-health/baby-spacing</a></p>
+
+{6
+
+<p><strong>Should I complete a preconception health history and bring it to my health care provider? </strong></p>
+6}
+<p>Yes, A family history includes health information about you and your close relatives.&nbsp; A family health history is an important risk factor for problems like heart disease, stroke, diabetes, cancer and genetically inherited health issues.&nbsp; Ask your relatives about your family's health history.&nbsp; Click on the link below for a "health screening and tune up form" you can complete and go over with your doctor.</p>
+<p><a href="http://www.healthystart.info/docs/hschartcolor.pdf">http://www.healthystart.info/docs/hschartcolor.pdf</a></p>
+
+{7
+
+<p><strong>If someone does not want to get pregnant and is sexually active, should they be using a method of birth control?</strong></p>
+7}
+<p>Yes.&nbsp; It is easy to get pregnant. Hope is not a method of birth control. If you want to get birth control or other reproductive health services, you can call 800-230-PLAN for a Planned Parenthood Health Center nearest to you.&nbsp; Go to the link below for a Planned Parenthood Health Center nearest you for female and male reproductive health services or go to <a href="http://www.findahealthcenter.hrsa.gov">http://www.findahealthcenter.hrsa.gov</a> (Federal Community Health Centers)&nbsp; Call 877-464-4772 for their health center near you. The Community Health Centers also provide reproductive health services and other low or no cost checkups, treatment when you are sick, pregnancy care, immunizations and checkups for your children, dental care and prescription drugs and mental health and substance abuse care if needed.</p>
+<p><a href="http://www.plannedparenthood.org/health-center/">http://www.plannedparenthood.org/health-center/</a></p>
+
+{8
+
+<p><strong>Have you been to a dentist in the last year?&nbsp;</strong></p>
+8}
+<p>It is important to visit a dentist at least once a year for your own oral health.&nbsp; If necessary, check with your local county health department for free preventative dental services that you may be eligible for.&nbsp; Gum disease in pregnant women is linked to preterm births and low birth weight babies.&nbsp; It is also linked to heart disease in adults.&nbsp; Try to see a dentist before getting pregnant.&nbsp; Medicaid covers dental services in some states.&nbsp; Call 866-232-4528 for local low cost dental services.&nbsp; For More Info on the importance of dental health.</p>
+<p><a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592159/">http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1592159/</a></p>
+
+{9
+
+<p><strong>If you are a teenager, do you know where you can go for confidential, medical services for birth control and sexually transmitted infection (STI) testing and treatment?</strong></p>
+9}
+<p>Check with the Planned Parenthood Health Center in your area.&nbsp; Either they provide teen services or they know who does.&nbsp; Go to www.ppfa.org or call 800-230-PLAN to find your local Health Center.&nbsp; Also search for Community Health Centers in Your City. Click here for a terrific free Teen Zone clinic in St. Lucie County, Florida.</p>
+<p><a href="http://www.teenzoneslc.org">http://www.teenzoneslc.org</a></p>
+
+{10
+
+<p><strong>Should we get vaccinated against infections? Yes or No?</strong></p>
+10}
+<p>Yes.&nbsp; Vaccines prevent many infections.&nbsp; Disease prevention is the key to public health.&nbsp; It is always better to prevent a disease than to treat it.&nbsp; Vaccines can prevent disease for both the people who receive the vaccine and those with whom they come in contact.&nbsp; This is also true for a pregnant woman protecting the health of her pregnancy or a woman who may get pregnant.&nbsp; Vaccines are responsible for the control of many infectious diseases that were once common in this country and around the world.&nbsp; Over the years, vaccines have saved millions of lives.&nbsp; Go to the Center for Disease Control "CDC-INFO" for a link to free downloadable or hard copy health publications or call 800-232-4636.&nbsp; Click the link below for common questions about vaccinations.</p>
+<p><a href="http://www.cdc.gov/vaccines/vac-gen/default.htm">http://www.cdc.gov/vaccines/vac-gen/default.htm</a></p>
+
+{11
+
+<p><strong>Are you up to date on your vaccines? Yes, No or I do not know.</strong></p>
+11}
+<p>Go to <a href="http://www2a.cdc.gov/nip/adultImmSched">http://www2a.cdc.gov/nip/adultImmSched</a> and take a short quiz to find out which vaccines might be recommended for you.&nbsp; The quiz can be printed as a completed Health Care Provider Form which you can take to your provider.</p>
+
+{12
+
+<p><strong>Should children and teenagers be vaccinated to</strong>o?</p>
+12}
+<p>Yes.&nbsp; Young people are in close proximity to their peers in school and in college.&nbsp; This closeness is a situation where infections can and do spread quickly.&nbsp; The meningococcal vaccine protects against meningitis (inflammation of the brain and spinal cord) which can lead to serious problems, including death.&nbsp; The HPV (human papillomavirus) vaccine protects against cervical cancer and genital warts and the Tdap vaccine protects against tetanus, diphtheria and whooping cough.&nbsp; Your health care provider will determine which of the recommended vaccines you may need.&nbsp; If you are not yet 18 years old and have not had your vaccinations, you might want to share this link with your parents or guardian.</p>
+<p><a href="http://kidshealth.org/teen/school_jobs/college/immunizations.html">http://kidshealth.org/teen/school_jobs/college/immunizations.html#</a></p>
+
+{13
+
+<p><strong>Where can you get more information on why vaccinations are recommended by virtually all medical and public health organizations?</strong></p>
+13}
+<p>Search "vaccinations" and organizations such as the: Mayo Clinic, Cleveland Clinic, Harvard Medical School, Scientific American, Wired Magazine, Science Magazine, Nature Magazine, etc. or any professional medical journal.</p>
+<p><a href="http://www.vaccines.gov/basics/safety/index.html">http://www.vaccines.gov/basics/safety/index.html</a></p>
+
+{14
+
+<p><strong>Should women who are pregnant or planning to get pregnant soon be vaccinated?</strong></p>
+14}
+<p>Yes, but some vaccinations should not be given to pregnant women, such as those that use a live vaccine such as MMR (mumps and measles, rubella) and varicella/chickenpox.&nbsp; A Tdap (tetanus, diphtheria and pertussis) vaccination is recommended during pregnancy because the immune response is transferred to the fetus so after birth the vulnerable infant is protected from the serious and potentially life threatening consequences of whooping cough (pertussis).&nbsp; Have any questions? Talk to your health care provider or you can call toll free 800-232-4636.&nbsp; Go to <a href="http://www.vaccines.gov/who_and_when/pregnant/index.html">http://www.vaccines.gov/who_and_when/pregnant/index.html</a> for information on vaccinations before and during pregnancy.</p>
+
+{15
+
+<p><strong>Is there is a cost for vaccinations and other preventative services?</strong></p>
+15}
+<p>Most preventative services with health care reform, including vaccinations, are available at no-cost. To find out about the no-cost prevention services, including immunizations, of the Affordable Care Act ("Health Care Reform") click the link below or call 800-318-2596.</p>
+<p><a href="http://www.hhs.gov/healthcare/facts/factsheets/2010/09/The-Affordable-Care-Act-and-Immunization.html">http://www.hhs.gov/healthcare/facts/factsheets/2010/09/The-Affordable-Care-Act-and-Immunization.html</a></p>
+
+{16
+
+<p><strong>At what age is the HPV (human papilloma virus) vaccine recommended for both females and males?</strong></p>
+
+<li><strong>a.) 11 - 26 years old</strong></li>
+<li><strong>b.) 18 - 26 years old</strong></li>
+<li><strong>c.) 21 - 26 years old</strong></li>
+16}
+<p>a) 11 - 26 years old for females and males. HPV infection causes genital warts, most cervical cancers and other cancers to females and males. HPV infection can also cause problems with a pregnancy. The CDC states that "For the HPV vaccine to work best, it is important for preteens to get all three doses (shots) long before any sexual activity with another person begins.&nbsp; It is possible to be infected with HPV the very first time they have sexual contact with another person.&nbsp; Also, the vaccine produces higher antibodies that fight infection when begun at this age compared to later." If you are under 18 years old and have not been vaccinated, you may want to share this information with your parent(s) or guardian(s).&nbsp; Since not all health care providers offer the HPV vaccine, mention to your provider your interest in the vaccine.&nbsp; If your health care provider does not offer the HPV vaccine, ask for a referral.&nbsp; You can also call your county health department, federal community health center or Planned Parenthood Health Center at 800-230-PLAN. &nbsp;Medicaid covers HPV vaccines and immunizations for eligible individuals under 21. &nbsp;Health Care Reform has made HPV vaccinations free as part of ACA's preventative services. &nbsp;In case you are expected to pay for the vaccine and cannot afford it and are 19 or over, contact either of the two vaccine manufacturers for free vaccine. &nbsp;For the vaccine, Cervarix, call GlaxoSmithKline's Vaccine Access Program at 877-822-2911 and for Gardasil, call Merck's Vaccine Patient Assistance Program at 800-293-3881.</p>
+<p><a href="http://kff.org/womens-health-policy/fact-sheet/the-hpv-vaccine-access-and-use-in/">http://kff.org/womens-health-policy/fact-sheet/the-hpv-vaccine-access-and-use-in/</a></p>
+
+{17
+
+<p><strong>Which daily supplement is recommended if you are sexually active?</strong></p>
+17}
+<p>A daily multivitamin, or a single supplement with 400 mcg of folic acid, is recommended if you are sexually active.&nbsp; Taking a daily multivitamin BEFORE getting pregnant will increase the odds of having a good birth result.&nbsp; Folic acid, which is in most multivitamins, helps protect a fetus from spinal cord defects and a baby from autism.&nbsp; If you ever become pregnant, and go to term, you will be encouraged by your medical practitioner to take a prenatal vitamin which has higher amounts of certain vitamins and minerals, including folic acid.</p>
+<p><a href="http://www.marchofdimes.com/pregnancy/take-folic-acid-before-youre-pregnant.aspx">http://www.marchofdimes.com/pregnancy/take-folic-acid-before-youre-pregnant.aspx</a>

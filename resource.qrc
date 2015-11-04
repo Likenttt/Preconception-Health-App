@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="try">R/picfertrying.png</file>
+        <file alias="ahc">R/AHC.png</file>
+        <file alias="award">R/AWARD.jpeg</file>
+        <file alias="danda">R/DandA.png</file>
+        <file alias="env">R/ENV.png</file>
+        <file alias="mainicon">R/ICON.png</file>
+        <file alias="ipv">R/IPV.png</file>
+        <file alias="mh">R/MH.png</file>
+        <file alias="nut">R/NUT.png</file>
+        <file alias="simb">R/SIMB.png</file>
+        <file alias="pa">R/PA.png</file>
+        <file alias="ADQ0">R/ADQ0.txt</file>
+        <file alias="ADA0">R/ADA0.txt</file>
+        <file alias="SIMBA">R/SIMBA.txt</file>
+        <file alias="SIMBQ">R/SIMBQ.txt</file>
+        <file alias="AHCA">R/AHCA.txt</file>
+        <file alias="AHCQ">R/AHCQ.txt</file>
+        <file alias="HEA">R/HEA.txt</file>
+        <file alias="HEQ">R/HEQ.txt</file>
+        <file alias="PAA">R/PAA.txt</file>
+        <file alias="PAQ">R/PAQ.txt</file>
+        <file alias="SMOKEA">R/SMOKEA.txt</file>
+        <file alias="SMOKEQ">R/SMOKEQ.txt</file>
+        <file alias="MHA">R/MHA.txt</file>
+        <file alias="MHQ">R/MHQ.txt</file>
+        <file alias="HENVA">R/HENVA.txt</file>
+        <file alias="HENVQ">R/HENVQ.txt</file>
+        <file alias="IPVA">R/IPVA.txt</file>
+        <file alias="IPVQ">R/IPVQ.txt</file>
+        <file alias="smoke">R/smoke.png</file>
+        <file alias="about">R/ABOUT.txt</file>
+    </qresource>
+</RCC>
