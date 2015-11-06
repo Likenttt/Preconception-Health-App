@@ -1,68 +1,68 @@
 {0
-<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;">Smoking</span></em></p>
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Smoking</b></span></em></p>
 <p>Smoking SUCKS big time! Every year in the US around 400,000 people die from tobacco related disease, making it the leading cause of preventable death.&nbsp; And 50,000 people die from second hand smoke.&nbsp; More deaths are caused each year by tobacco use than all deaths from AIDS, illegal drug use, alcohol use, car accidents, suicides and murders. Tragically, each day thousands of young people still pick up cigarettes for the first time.&nbsp; It is much harder to quit if a smoker starts before age 20.&nbsp; Don't start.&nbsp; If you smoke, quitting is the best and likely the toughest thing you can ever do.</p>
 0}
 {1
-<p><strong>Where can someone get help to stop smoking?</strong></p>
+<p><strong>1. Where can someone get help to stop smoking?</strong></p>
 1}
 <p>Talk to your primary care provider about wanting to quit.&nbsp; Ask them for a prescription to quit smoking.&nbsp; This helps. Call 800-QUIT-NOW! If you are not successful, try again.&nbsp; Many people have to try many times to finally succeed.&nbsp; Check out the link for help.</p>
 <p><a href="http://www.tobaccofreeflorida.com/">http://www.tobaccofreeflorida.com/</a></p>
 
 {2
-<p><strong>Name two life threatening diseases that smokers are more likely to have than non-smokers?</strong></p>
+<p><strong>2. Name two life threatening diseases that smokers are more likely to have than non-smokers?</strong></p>
 2}
 <p>Heart disease and Stroke are 2 to 4 times higher in smokers.&nbsp; Lung cancer and other lung diseases are more than 10 times higher.&nbsp; Smoking causes ten other cancers.</p>
 <p>http://www.cdc.gov/tobacco/campaign/tips/</p>
 
 {3
-<p><strong>Is smoking by a pregnant woman dangerous to her pregnancy?</strong></p>
+<p><strong>3. Is smoking by a pregnant woman dangerous to her pregnancy?</strong></p>
 3}
 <p>Yes.&nbsp; The birth is more likely to result in a fetal death, serious birth defects, miscarriage, premature birth, low birth weight, brain damage and sudden infant death syndrome (SIDS).&nbsp; Since half of all pregnancies are unplanned, many women are smoking at least during the first few weeks of their unknown pregnancy.&nbsp; Do not smoke if you are sexually active and not using birth control.&nbsp; Clink below for the dangers of being pregnant and smoking.</p>
 <p><a href="http://www.marchofdimes.com/news/first-ever-review-finds-smoking-causes-serious-birth-defects.aspx">http://www.marchofdimes.com/news/first-ever-review-finds-smoking-causes-serious-birth-defects.aspx</a></p>
 
 {4
-<p><strong>Is secondhand smoke dangerous for a pregnant woman and her pregnancy</strong>?</p>
+<p><strong>4. Is secondhand smoke dangerous for a pregnant woman and her pregnancy</strong>?</p>
 4}
 <p>Yes.&nbsp; Secondhand smoke causes fetal death and serious birth defects.&nbsp; A pregnant woman and those dear to her should protect her space from smokers.&nbsp; Do no smoke around someone pregnant.</p>
 <p><a href="http://pediatrics.aappublications.org/content/127/4/734.short">http://pediatrics.aappublications.org/content/127/4/734.short</a></p>
 
 {5
-<p><strong>Are cigars, pipes and hookahs safer than cigarettes?&nbsp;</strong></p>
+<p><strong>5. Are cigars, pipes and hookahs safer than cigarettes?&nbsp;</strong></p>
 5}
 <p>No.&nbsp; Do not use or allow cigar, pipe or hookah smoke around you, especially if you are pregnant or might be pregnant.&nbsp; for more info on cigars, etc.</p>
 <p><a href="http://www.mayoclinic.com/health/cigar-smoking/AN01515">http://www.mayoclinic.com/health/cigar-smoking/AN01515</a></p>
 {6
-<p><strong>Is it true that smoking causes wrinkles?</strong></p>
+<p><strong>6. Is it true that smoking causes wrinkles?</strong></p>
 6}
 <p>Yes.&nbsp; We have yet another reason not to smoke.&nbsp; And the wrinkles are not just on the smoker's face.&nbsp; Not nice.</p>
 <p><a href="http://www.m.webmd.com/a-to-z-guides/ss/slideshow-ways-smoking-affects-looks">http://www.m.webmd.com/a-to-z-guides/ss/slideshow-ways-smoking-affects-looks</a></p>
 
 {7
-<p><strong>Does smoking cause dental problems?</strong></p>
+<p><strong>7. Does smoking cause dental problems?</strong></p>
 7}
 <p>Yes.&nbsp; The damaging effects of smoking on dental health are mostly with young people.&nbsp; There is increased risk of peritonitis, tooth loss and less of a response to any treatment.&nbsp; Quitting smoking lowers the risk of these dental problems.</p>
 <p><a href="http://www.1800dentist.com/smoking-and-your-oral-health/">http://www.1800dentist.com/smoking-and-your-oral-health/</a></p>
 
 {8
-<p><strong>Is smokeless tobacco safer?</strong></p>
+<p><strong>8. Is smokeless tobacco safer?</strong></p>
 8}
 <p>No.&nbsp; Chew, spit, dip, snuff and other smokeless products cause serious health problems like cancer of the mouth and esophagus and more.&nbsp; And, think about getting it on with someone, when your face gets near their mouth for a kiss.&nbsp; UGH!</p>
 <p><a href="http://www.cancer.gov/cancertopics/tobacco/smokeless-tobacco/">http://www.cancer.gov/cancertopics/tobacco/smokeless-tobacco/</a></p>
 
 {9
-<p><strong>What is third-hand smoke and is it harmful?&nbsp;</strong></p>
+<p><strong>9. What is third-hand smoke and is it harmful?&nbsp;</strong></p>
 9}
 <p>Third-hand smoke is the term used to describe the particles and gases left over after a cigarette is finished.&nbsp; These substances are around for a long time.&nbsp; Yes, it's harmful.&nbsp; The best thing to do to stop third hand smoke from settling in your space is to not allow anyone to smoke in your home or car.</p>
 <p><a href="http://www.everydayhealth.com/stop-smoking/the-dangers-of-thirdhand-smoke.aspx">http://www.everydayhealth.com/stop-smoking/the-dangers-of-thirdhand-smoke.aspx</a></p>
 
 {10
-<p><strong>What are some positive steps to include in a plan to stop smoking</strong>?</p>
+<p><strong>10. What are some positive steps to include in a plan to stop smoking</strong>?</p>
 10}
 <p>Treat quitting as an opportunity for a life change.&nbsp; Add exercising and eating smart. Quitting smoking is difficult and there will be physical and mental discomfort for a while, but the benefits will come.&nbsp; Can you imagine achieving the feeling you get from smoking by being smoke free?&nbsp; Click the link below on how to IMAGINE you as a non-smoker.</p>
 <p><a href="http://quitfullstop.tumblr.com/post/18181580827/imagine-yourself-as-a-non-smoker-to-quit-smoking">http://quitfullstop.tumblr.com/post/18181580827/imagine-yourself-as-a-non-smoker-to-quit-smoking</a></p>
 
 {11
-<p><strong>Are e-cigarettes a safer alternative to regular cigarettes? Yes, No or it depends?&nbsp;</strong></p>
+<p><strong>11. Are e-cigarettes a safer alternative to regular cigarettes? Yes, No or it depends?&nbsp;</strong></p>
 11}
 <p>It depends.&nbsp; Much more research needs to be done on the health effects of e-cigarettes.&nbsp; Stay tuned.&nbsp; Stanton Glantz, MD., a leading tobacco control expert, states that: "If smokers switched entirely from regular cigarettes to e-cigarettes, if no one started smoking because of e-cigarettes and if e-cigarettes did not discourage quitting, smokers would be better off."&nbsp; Nicotine and other substances in e-cigarettes can harm a pregnancy. Someone pregnant should not use any "nicotine delivery device." If sexually active and not using birth control, a woman should not e-smoke because they may well get pregnant and endanger her pregnancy.&nbsp; Stay away from "second hand vapor" from e-cigarettes. Liquid nicotine has been found to be toxic if ingested or put or spilled on the skin.&nbsp; Keep liquid nicotine secure and away from children.&nbsp; Search "liquid nicotine toxicity."&nbsp; Click below if you want to stay tuned to Dr. Glantz with his University of California blog on tobacco and e-cigarettes.</p>
 <p><a href="https://tobacco.ucsf.edu/blogs/sglantz">https://tobacco.ucsf.edu/blogs/sglantz</a>

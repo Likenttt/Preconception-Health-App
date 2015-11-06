@@ -147,8 +147,8 @@ void MainWindow::mainMenu()
     ui->groupBox->setVisible(true);
     ui->groupBox_2->setVisible(false);
     if(AHC.getActive())
-    ui->pushButton->setText("Access To Healthcare "+AHC.ScoreString());
-    else {ui->pushButton->setText("Access To Healthcare ");}
+    ui->pushButton->setText(" Access To Health Care "+AHC.ScoreString());
+    else {ui->pushButton->setText(" Access To Health Care ");}
     if(SIMB.getActive())
     ui->pushButton_2->setText("     Sex, Intimacy, Maybe A Baby "+SIMB.ScoreString());
     else{ui->pushButton_2->setText("     Sex, Intimacy, Maybe A Baby ");}

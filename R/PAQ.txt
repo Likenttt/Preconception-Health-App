@@ -1,10 +1,10 @@
 {0
-<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;">Physical Activity</span></em></p>
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Physical Activity</b></span></em></p>
 
 <p>Move!... for better health. The CDC says "Regular physical activity is important for all people; age, ethnicity, shape or size do not matter.&nbsp; Everyone can gain from the health benefits of physical activity."&nbsp; Moving our bodies, like eating smart, is important for our health.&nbsp; If we eat lots of veggies, fruit and other healthy foods and get a moderate amount of exercise we have done much of what we should do to be healthy and this includes being fit if we want to get pregnant or to become a father. If a woman gets pregnant and goes to term with the pregnancy, being fit before she gets pregnant will help her physically and emotionally through the pregnancy and into motherhood.&nbsp; Whether we plan on getting pregnant or never getting pregnant, being in good physical and emotional condition is where we all want to be. It does not take much time or effort to move enough to enjoy the benefits of being physically fit.&nbsp; Check with your doctor before starting a new exercise routine, especially if you have any health concerns.</p>
 0}
 {1
-<p><strong>How much time per week should we exercise?</strong></p>
+<p><strong>1. How much time per week should we exercise?</strong></p>
 
 <li><strong>a.) 400 minutes</strong></li>
 <li><strong>b.) 150 minutes</strong></li>
@@ -14,18 +14,18 @@
 <p><a href="http://www.cdc.gov/features/physicalactivity/">http://www.cdc.gov/features/physicalactivity/</a></p>
 
 {2
-<p><strong>Are you getting the 150 minutes of moderate exercise per week</strong>?</p>
+<p><strong>2. Are you getting the 150 minutes of moderate exercise per week</strong>?</p>
 2}
 <p>Only one in five Americans is.&nbsp; Every bit helps.&nbsp; Are you are getting the recommended amount of moderate exercise?</p>
 
 {3
-<p><strong>Name three health benefits of adequate physical activity.</strong></p>
+<p><strong>3. Name three health benefits of adequate physical activity.</strong></p>
 3}
 <p>Control weight, reduce risk of heart disease and some cancers and improve your mood and mental health.&nbsp; For more news about physical activity and how to get started click here.</p>
 <p><a href="http://www.hsph.harvard.edu/nutritionsource/staying-active-full-story/">http://www.hsph.harvard.edu/nutritionsource/staying-active-full-story/</a></p>
 
 {4
-<p><strong>Besides moderate (aerobic or cardio) exercise, what other types of physical activities are good for our health? &nbsp;
+<p><strong>4. Besides moderate (aerobic or cardio) exercise, what other types of physical activities are good for our health? &nbsp;
 
 <li><strong>a.) Moving from the couch to the kitchen table</strong></li>
 <li><strong>b.) Strengthening and stretching exercises</strong></li>
@@ -34,19 +34,19 @@
 <p>b.) Strength and flexibility training is another important part of a fitness program. Strength training at least twice a week increases muscle and bone strength and contributes to living a longer healthier life.&nbsp; Stretching exercises increase flexibility and range of motion, promote better posture and relieve stress.&nbsp; Check out yoga, Pilates or tai chi. <a href="http://my.clevelandclinic.org/healthy_living/exercise/hic_exercise_basics.aspx">http://my.clevelandclinic.org/healthy_living/exercise/hic_exercise_basics.aspx</a></p>
 
 {5
-<p><strong>Do we need to join a gym to get the exercise we need?&nbsp; Yes or No?</strong></p>
+<p><strong>5. Do we need to join a gym to get the exercise we need?&nbsp; Yes or No?</strong></p>
 5}
 <p>No.&nbsp; You can get the exercise you need at home by walking, using a home exercise machine, doing strength exercises using your body or flexible cords as the resistance or using a yoga mat for stretching exercises.&nbsp; An exercise buddy may help you, and your friend, exercise regularly.</p>
 <p><a href="http://www.webmd.com/fitness-exercise/features/no-gym-required-how-to-get-fit-at-home">http://www.webmd.com/fitness-exercise/features/no-gym-required-how-to-get-fit-at-home</a></p>
 
 {6
-<p><strong>Is it important for someone who has a physical disability to exercise? Yes or No?&nbsp;</strong></p>
+<p><strong>6. Is it important for someone who has a physical disability to exercise? Yes or No?&nbsp;</strong></p>
 6}
 <p>Yes.&nbsp; Regular physical activity is important for everyone.&nbsp; Also, &nbsp;&nbsp;people with disabilities are interested in sex as much as anyone else.&nbsp; Some people might think otherwise; &nbsp;&nbsp;this can pose a problem for those who live with physical or mental challenges.&nbsp; For exercise tips click below:</p>
 <p><a href="http://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-with-a-disability-quick-tips">http://healthfinder.gov/HealthTopics/Category/health-conditions-and-diseases/obesity/stay-active-with-a-disability-quick-tips</a></p>
 
 {7
-<p><strong>Does exercising before pregnancy help the pregnancy</strong>?</p>
+<p><strong>7. Does exercising before pregnancy help the pregnancy</strong>?</p>
 7}
 <p>Yes.&nbsp; Regular physical exercise before and while pregnant can reduce birth complications, make the pregnant woman feel better and even reduce her time in labor. Check with your medical provider before you start an exercise program.</p>
 <p><a href="http://www.whattoexpect.com/preconception/health-and-wellness/safeguard-your-health/start-exercising.aspx">http://www.whattoexpect.com/preconception/health-and-wellness/safeguard-your-health/start-exercising.aspx</a>

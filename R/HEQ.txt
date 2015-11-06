@@ -1,46 +1,46 @@
 {0
-<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;">Healthy Eating</span></em></p>
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Healthy Eating</b></span></em></p>
 <p>What we eat and how much we move count big time. If "we are what we eat" and "use it or lose it" are true, then it may be worth our while to look at what food turns us on and how much we move our bodies.&nbsp; We can then see if these choices are making us into the person we want to be. It is our responsibility to choose the food and the physical activities that will make us who we can be.&nbsp; Being as healthy as we can be should be a goal for everyone. Eating smarter and moving more will help us get there.&nbsp; And, if we choose to bring another person into this world, we will be a healthier mother (or father) from the moment conception happens.&nbsp; Having a healthier lifestyle before, during, and after the pregnancy will leave us physically and mentally stronger for the tough and rewarding job of being a parent.&nbsp; We and our kids will be much better off for our effort.</p>
 0}
 
 {1
 
-<p><strong>Do you know a reason why the Supplemental Nutrition Assistance Program (SNAP) (</strong><strong>"Food Stamp Program</strong><strong>") is important for the health of millions of Americans?</strong></p>
+<p><strong>1. Do you know a reason why the Supplemental Nutrition Assistance Program (SNAP) (</strong><strong>"Food Stamp Program</strong><strong>") is important for the health of millions of Americans?</strong></p>
 1}
 <p>The federal SNAP program provides food for hungry Americans.&nbsp; Hunger is obviously a health problem for the people who do not have enough food.&nbsp; Hunger is also a risk factor for a woman who gets pregnant while hungry and/or goes through her pregnancy and delivery hungry.&nbsp; This is a recipe for a poor birth outcome and for a hungry child.&nbsp; This problem continues in the United States with millions of children among the victims of hunger in the United States. There should be no stigma attached to hunger.&nbsp; Food is a life need for all.&nbsp; Americans who manage to have SNAP assistance can now buy local food from farmer's markets.&nbsp; Call 800-221-5689 if you want to know the location of your local SNAP office.&nbsp; If you or someone you know needs to know the eligibility rules for SNAP and instructions on how to apply for food assistance Click the link below.</p>
 <p><a href="http://www.fns.usda.gov/snap/applicant_recipients/10steps.pdf">http://www.fns.usda.gov/snap/applicant_recipients/10steps.pdf</a></p>
 
 {2
 
-<p><strong>Why is folic acid, the vitamin, important before pregnancy?</strong></p>
+<p><strong>2. Why is folic acid, the vitamin, important before pregnancy?</strong></p>
 2}
 <p>Folic acid helps prevent birth defects of the brain and spine and also may prevent autism.&nbsp; Any woman who can get pregnant, especially if she is sexually active, should take 400 micrograms of folic acid daily by taking a multivitamin or a folic acid supplement or eating foods high in folate, such as leafy greens, berries, citrus and beans.&nbsp; Many cereals are fortified with folic acid.&nbsp; Check the package "nutrition facts" label.&nbsp; Go to for more info:</p>
 <p><a href="http://www.folicacidinfo.org">http://www.folicacidinfo.org</a></p>
 
 {3
 
-<p><strong>Have you shared with someone the importance of the nutrient folic acid for themselves and for a possible pregnancy?</strong></p>
+<p><strong>3. Have you shared with someone the importance of the nutrient folic acid for themselves and for a possible pregnancy?</strong></p>
 3}
 <p>You have heard this before, but folic acid is very important.&nbsp; That is why the question is repeated.</p>
 <p><a href="http://www.folicacid.ca/food-sources">http://www.folicacid.ca/food-sources</a></p>
 
 {4
 
-<p><strong>True or False: The best way for someone to get to a healthy weight is by short term dieting?</strong></p>
+<p><strong>4. True or False: The best way for someone to get to a healthy weight is by short term dieting?</strong></p>
 4}
 <p>False.&nbsp; The best way is to make a lifelong habit of healthy eating and drinking, physical activity and controlling your stress.&nbsp; Balancing the number of calories you consume with the amount your body uses is the key. &nbsp;Being overweight or underweight is a serious health risk for you and puts a possible pregnancy at risk.&nbsp; Click here for Harvard's "How to Get to Your Healthy Weight".</p>
 <p><a href="http://www.hsph.harvard.edu/nutritionsource/healthy-weight-full-story/">http://www.hsph.harvard.edu/nutritionsource/healthy-weight-full-story/</a></p>
 
 {5
 
-<p><strong>Would you like other tips to help with weight management?</strong></p>
+<p><strong>5. Would you like other tips to help with weight management?</strong></p>
 5}
 <p>The University of California has a great list of ideas for weight management at:</p>
 <p><a href="http://www.ucsfhealth.org/education/behavior_modification_ideas_for_weight_management/">http://www.ucsfhealth.org/education/behavior_modification_ideas_for_weight_management/</a></p>
 
 {6
 
-<p><strong>Eating disorders are serious, potentially life-threatening, conditions that can affect a person's</strong><strong></strong></p>
+<p><strong>6. Eating disorders are serious, potentially life-threatening, conditions that can affect a person's</strong><strong></strong></p>
 
 <li><strong>a.) Physical health?</strong></li>
 <li><strong>b.) Emotional health?</strong></li>
@@ -51,49 +51,49 @@
 
 {7
 
-<p><strong>How many servings per day of vegetables and fruits is enough?</strong></p>
+<p><strong>7. How many servings per day of vegetables and fruits is enough?</strong></p>
 7}
 <p>Vegetables: 5 or more servings/day. Fruits: 2-4 servings/day. If you think it would be good if you ate more, Click the link below and find out what is recommended for you to eat given your age, gender and the amount of exercise you do.</p>
 <p><a href="http://www.cdc.gov/nutrition/everyone/fruitsvegetables/howmany.html">http://www.cdc.gov/nutrition/everyone/fruitsvegetables/howmany.html</a></p>
 
 {8
 
-<p><strong>What is a good guide to help folks eat more veggies and fruit?</strong></p>
+<p><strong>8. What is a good guide to help folks eat more veggies and fruit?</strong></p>
 8}
 <p>The Center for Disease Control has produced a helpful brochure.</p>
 <p><a href="http://www.cdc.gov/healthyweight/healthy_eating/fruits_vegetables.html">http://www.cdc.gov/healthyweight/healthy_eating/fruits_vegetables.html</a></p>
 
 {9
 
-<p><strong>True or False, Folic acid is one of the vitamins that contribute to having healthy hair and skin?&nbsp;</strong></p>
+<p><strong>9. True or False, Folic acid is one of the vitamins that contribute to having healthy hair and skin?&nbsp;</strong></p>
 9}
 <p>True.&nbsp; Folic acid is one of the vitamins that make for lustrous hair and healthy skin.&nbsp; Foods rich in folate (folic acid) are citrus, whole and fortified grains, beans, peas, lentils, leafy greens, asparagus, broccoli, cauliflower and other veggies. Folic acid is important for adolescents too because their nutritional needs tend to increase and they are more likely to have an unplanned pregnancy and habits established early are more likely to continue throughout their reproductive years.&nbsp; Click below to learn more about folic acid.</p>
 <p><a href="http://www.cdc.gov/ncbddd/folicacid/documents/factsaboutfolicacid_english.pdf">http://www.cdc.gov/ncbddd/folicacid/documents/factsaboutfolicacid_english.pdf</a></p>
 
 {10
 
-<p><strong>Is a vegetarian or vegan diet considered </strong><strong>"healthy eating</strong><strong>"</strong><strong> by the American Dietetic Association (ADA), Yes or No?</strong></p>
+<p><strong>10. Is a vegetarian or vegan diet considered </strong><strong>"healthy eating</strong><strong>"</strong><strong> by the American Dietetic Association (ADA), Yes or No?</strong></p>
 10}
 <p>Yes, the ADA states that "well-planned vegetarian and vegan diets are appropriate for individuals during all stages of the life cycle, including pregnancy, lactation, infancy, childhood and adolescence, and for athletes.&nbsp; Vegetarian diets can be nutritionally adequate in pregnancy and result in positive maternal and infant health." Vegetarians also appear to have lower rates of heart disease, stroke, diabetes, obesity and cancer.&nbsp; Check out the abstract with this position paper from the ADA by pressing Clicking below</p>
 <p><a href="http://www.vrg.org/nutrition/2009_ADA_position_paper.pdf">http://www.vrg.org/nutrition/2009_ADA_position_paper.pdf</a></p>
 
 {11
 
-<p><strong>Are you interested in finding out more about vegetarianism or veganism, Yes or No</strong>?</p>
+<p><strong>11. Are you interested in finding out more about vegetarianism or veganism, Yes or No</strong>?</p>
 11}
 <p>Search "vrg nutrition" for the vegetarian resource group website.&nbsp; Check out your local natural foods store or vegetarian restaurant if you want to learn more. Check out the link below for the Mayo Clinic's take on vegetarianism.</p>
 <p><a href="http://www.mayoclinic.com/health/vegetarian-diet/HQ01596">http://www.mayoclinic.com/health/vegetarian-diet/HQ01596</a></p>
 
 {12
 
-<p><strong>Should mothers be encouraged to breastfeed their babies?&nbsp; Yes or No?</strong></p>
+<p><strong>12. Should mothers be encouraged to breastfeed their babies?&nbsp; Yes or No?</strong></p>
 12}
 <p>Yes the U.S. Surgeon General states that "one of the most highly effective preventative measures a mother can take to protect the health of her infant and herself is to breastfeed." Visit your local county health department and Women Infants and Children (WIC) for breastfeeding and infant nutrition information and assistance.&nbsp; You can search for "womenshealth.gov/breastfeeding." Click below on the La Leche League and how to get personal mom-to-mom support.</p>
 <p><a href="http://www.llli.org/">http://www.llli.org/</a></p>
 
 {13
 
-<p><strong>Does </strong><strong>"organically grown</strong><strong>"</strong><strong> mean that food is grown</strong><strong></strong></p>
+<p><strong>13. Does </strong><strong>"organically grown</strong><strong>"</strong><strong> mean that food is grown</strong><strong></strong></p>
 <li><strong>a.)with organ music to encourage rhythmic growth without the use of any nasty synthetic chemicals?</strong></li>
 <li><strong>b.) Vegetables and fruit grown with the use of chemical fertilizers and pesticides?&nbsp;</strong></li>
 <li><strong>c.) Vegetables and fruit grown without the use of antibiotics, hormones, synthetic fertilizers and pesticides?</strong></li>
@@ -103,84 +103,84 @@
 
 {14
 
-<p><strong>Would you and your family prefer to consume food with less pesticide residue, antibiotics and hormones</strong>?</p>
+<p><strong>14. Would you and your family prefer to consume food with less pesticide residue, antibiotics and hormones</strong>?</p>
 14}
 <p>If yes, buy or grow some food that is organically grown.&nbsp; Food is labeled "certified organic" or you can buy it locally from a farmer/gardener you know who grows their food organically.&nbsp; Some growers do not become "certified organic", but do grow organically.&nbsp; Know your local grower and find out if they are "organic" or not.&nbsp; Click the link below for Mayo Clinic's view on the differences between organically grown food and food that is "conventionally" grown with the use of chemicals.</p>
 <p><a href="http://www.mayoclinic.com/health/organic-food/NU00255">http://www.mayoclinic.com/health/organic-food/NU00255</a></p>
 
 {15
 
-<p><strong>Do you know what the food labels like </strong><strong>"</strong><strong>all natural!</strong><strong>", </strong><strong>"high fiber!</strong><strong>"</strong><strong> and </strong><strong>"lightly sweetened!</strong><strong>"</strong><strong> mean on food packaging? Yes or No?</strong></p>
+<p><strong>15. Do you know what the food labels like </strong><strong>"</strong><strong>all natural!</strong><strong>", </strong><strong>"high fiber!</strong><strong>"</strong><strong> and </strong><strong>"lightly sweetened!</strong><strong>"</strong><strong> mean on food packaging? Yes or No?</strong></p>
 15}
 <p>If you do not know, join the club! Some of the most common food descriptors don't carry any real meaning.&nbsp; Others falsely imply health benefits or intentionally mislead consumers.&nbsp; Check out the link On how to avoid being fooled by misleading labels.</p>
 <p><a href="http://cspinet.org/new/pdf/special_report_-_label_makeover.pdf">http://cspinet.org/new/pdf/special_report_-_label_makeover.pdf</a></p>
 
 {16
 
-<p><strong>Where do supermarkets place their most nutritious foods?</strong></p>
+<p><strong>16. Where do supermarkets place their most nutritious foods?</strong></p>
 16}
 <p>The healthiest foods are found along the walls of the supermarket, not on the inside aisles where most of the processed, packaged foods are.&nbsp; Check the packaged food nutrition labels.&nbsp; See if the product has been fortified with the desired preconception and prenatal vitamin, folic acid.&nbsp; For resources on understanding food labels click below</p>
 <p><a href="http://www.heart.org/HEARTORG/GettingHealthy/NutritionCenter/HeartSmartShopping/Reading-Food-Nutrition-Labels_UCM_300132_Article.jsp">http://www.heart.org/HEARTORG/GettingHealthy/NutritionCenter/HeartSmartShopping/Reading-Food-Nutrition-Labels_UCM_300132_Article.jsp</a></p>
 
 {17
 
-<p><strong>Is a pregnant woman who is exposed to pesticides in her food at a greater risk of having a low birth weight baby?</strong></p>
+<p><strong>17. Is a pregnant woman who is exposed to pesticides in her food at a greater risk of having a low birth weight baby?</strong></p>
 17}
 <p>Yes. Research shows that a pregnant women's exposure to commonly used pesticides might cause a preterm birth and a lower birth weight baby.&nbsp; "These are women exposed primarily though diet and pesticides used in and around the home."&nbsp; There is a current study that shows a link between a pregnant woman living near fields that use pesticides and autism (search "autism pesticides").&nbsp; Click below for the study on pesticides and preterm births; the link is in the article.</p>
 <p><a href="http://www.huffingtonpost.com/2012/04/05/pesticides-pregnancy-babies-health_n_1406468.html">http://www.huffingtonpost.com/2012/04/05/pesticides-pregnancy-babies-health_n_1406468.html</a></p>
 
 {18
 
-<p><strong>Is it best to buy as much of your food as you can that's grown close by?</strong></p>
+<p><strong>18. Is it best to buy as much of your food as you can that's grown close by?</strong></p>
 18}
 <p>Yes.&nbsp; Locally grown food is more likely fresher and less expensive.&nbsp; Buying local and, if you can, organically grown, helps the health of the local economy and reduces greenhouse gases from trucking the food from faraway industrial farms.</p>
 <p><a href="http://www.localharvest.org/buylocal.jsp">http://www.localharvest.org/buylocal.jsp</a></p>
 
 {19
 
-<p><strong>Where can you go to buy locally grown veggies, fruit and other foods?</strong></p>
+<p><strong>19. Where can you go to buy locally grown veggies, fruit and other foods?</strong></p>
 19}
 <p>Check out your local farmers' market, "Community Supported Agriculture farms" and food co-ops.&nbsp; Click the link below and find your nearby farms and farmers markets, by zip or city.</p>
 <p><a href="http://www.localharvest.org/">http://www.localharvest.org/</a></p>
 
 {20
 
-<p><strong>Have you thought of growing a food garden or even a few veggies or herbs in pots?</strong></p>
+<p><strong>20. Have you thought of growing a food garden or even a few veggies or herbs in pots?</strong></p>
 20}
 <p>If you would like to consider gardening, talk to some local organic gardeners.&nbsp; They are mostly friendly folks and happy to help you get started.&nbsp; Search "start an organic garden" and 'your state'.&nbsp; Permaculture is an ecological way of growing food that imitates nature and therefore uses less labor and money.&nbsp; Need to be inspired to grow some food?&nbsp; Search 'Ron Finley Ted Talks' for a short video that will give you a boost to do it.&nbsp; For information on starting a permaculture organic garden, click:</p>
 <p><a href="http://www.naturalnews.com/035038_permaculture_gardening_how_to.html">http://www.naturalnews.com/035038_permaculture_gardening_how_to.html</a></p>
 
 {21
 
-<p><strong>Processed meats, like bacon, sausage, hot dogs, ham, pepperoni and packaged lunch meats are considered to be </strong><strong>health foods? True or False?</strong></p>
+<p><strong>21. Processed meats, like bacon, sausage, hot dogs, ham, pepperoni and packaged lunch meats are considered to be </strong><strong>health foods? True or False?</strong></p>
 21}
 <p>False.&nbsp; Processed meats are often high in salts and nitrates which may contribute to high blood pressure and cancer, respectively.&nbsp; Eat these foods infrequently, if at all.</p>
 <p><a href="http://www.bidmc.org/YourHealth/HealthResearchJournals.aspx?ChunkID=496424">http://www.bidmc.org/YourHealth/HealthResearchJournals.aspx?ChunkID=496424</a></p>
 
 {22
 
-<p><strong>Can people actually be allergic or intolerant to certain foods? Yes or No?</strong></p>
+<p><strong>22. Can people actually be allergic or intolerant to certain foods? Yes or No?</strong></p>
 22}
 <p>Yes.&nbsp; The most common foods to cause the health problems are milk (dairy) products, eggs, peanuts, nuts, soy beans, fish, shellfish and gluten.</p>
 <p><a href="http://www.webmd.com/allergies/foods-allergy-intolerance">http://www.webmd.com/allergies/foods-allergy-intolerance</a></p>
 
 {23
 
-<p><strong>Name some sweeteners that are found in many popular drinks that make them high calorie drinks?</strong></p>
+<p><strong>23. Name some sweeteners that are found in many popular drinks that make them high calorie drinks?</strong></p>
 23}
 <p>High-fructose corn syrup, sugar, fructose, fruit juice concentrates, honey, syrup, corn syrup, sucrose and dextrose. Check the label on the drink container for any of these sweeteners.&nbsp; A twelve ounce sweetened soda has over 100 calories; a 20 ounce cola has over 200 calories.&nbsp; Watch out for fancy coffees and smoothies too.&nbsp; It is best to eat a whole fruit instead of just drinking its juice, even if unsweetened.&nbsp; Many of the flavored waters that are now popular have sugar, artificial sweeteners, artificial flavorings and/or other additives.&nbsp; Check the label to see if it is more than water.&nbsp; Choose water and you can make it more interesting by adding slices of lemon, lime, cucumbers, watermelon or a splash of 100% fruit juice.&nbsp; Use your imagination.&nbsp; Keep the sweet drinks out of the fridge and if you drink these beverages, keep them small.&nbsp; Also, many of these sweeteners are found in most packaged, processed foods.&nbsp; Check labels.</p>
 <p><a href="http://www.sciencekids.co.nz/videos/experiments/sugarinsoda.html">http://www.sciencekids.co.nz/videos/experiments/sugarinsoda.html</a></p>
 
 {24
 
-<p><strong>What is a low calorie substitute for a sugary drink?</strong></p>
+<p><strong>24. What is a low calorie substitute for a sugary drink?</strong></p>
 24}
 <p>Water or flavored water. &nbsp;Make your own flavored water by squeezing a bit of lemon, lime or cucumber, etc.&nbsp; You can add a splash of fruit juice to the water for flavor.&nbsp; Check out the ingredients in store-bought flavored water. If you can, avoid water in plastic bottles.&nbsp; They may be contaminated with BPA and these containers stay in the dump forever.</p>
 <p>h<a href="http://www.huffingtonpost.com/2012/07/11/water-flavors_n_1665025.html">ttp://www.huffingtonpost.com/2012/07/11/water-flavors_n_1665025.html</a></p>
 
 {25
 
-<p><strong>Is there a dark side to artificial sweeteners? Yes or No</strong>?</p>
+<p><strong>25. Is there a dark side to artificial sweeteners? Yes or No</strong>?</p>
 25}
 <p>Yes.&nbsp; Current findings suggest caution about overall sweetening of the diet is warranted, regardless of whether the sweetener provides energy (calories) or not.&nbsp; For the original journal article, search "artificial sweeteners endocrinology." For pregnant women who have PKU (phenylketonuria), artificial sweetener (aspartame) use has been linked to birth defects.&nbsp; Click below for artificial sweeteners' dark side.</p>
-<p><a href="http://www.sciencedaily.com/releases/2013/07/130710122000.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencedaily%2Fhealth_medicine%2Fdiabetes+%28ScienceDaily%3A+Health+%26+Medicine+News+--+Diabetes%29">http://www.sciencedaily.com/releases/2013/07/130710122000.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencedaily%2Fhealth_medicine%2Fdiabetes+%28ScienceDaily%3A+Health+%26+Medicine+News+–+Diabetes%29</a>
+<p><a href="http://www.sciencedaily.com/releases/2013/07/130710122000.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencedaily%2Fhealth_medicine%2Fdiabetes+%28ScienceDaily%3A+Health+%26+Medicine+News+--+Diabetes%29">http://www.sciencedaily.com/releases/2013/07/130710122000.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencedaily%2Fhealth_medicine%2Fdiabetes+%28ScienceDaily%3A+Health+%26+Medicine+News+ï¿½+Diabetes%29</a>
