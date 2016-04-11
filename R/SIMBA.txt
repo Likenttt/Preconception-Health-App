@@ -183,7 +183,7 @@
 {25
 <p><strong>25. What method of birth control are you using or plan to use?</strong></p>
 
-<p>For more info on birth control and "info for teens" and "tools for parents and educators."&nbsp; Birth control is free with Health Care Reform!</p>
+<p>Intrauterine devices (IUDs) and implants, which are long-acting, reversible birth control methods, are considered the most effective for preventing unplanned pregnancies.&nbsp; Birth control is free with Health Care Reform!</p>
 <p><a href="http://www.acog.org/Patients/FAQs/Birth-Control-Especially-for-Teens">More Info</a></p>
 25}
 {26
@@ -220,7 +220,7 @@
 <li><strong>b.) 65%</strong></li>
 <li><strong>c.) 85%.</strong></li>
 
-<p>c.) 85% That's right. Statistically 85 out of 100 fertile women of reproductive age who are having vaginal intercourse will get pregnant in a year's time. Click on the link below on the effectiveness of using birth control to prevent an unwanted pregnancy. Check out this site.&nbsp; It is loaded with reproductive health information for women and men.</p>
+<p>c.) 85% That's right. Statistically 85 out of 100 fertile women of reproductive age who are having vaginal intercourse will get pregnant in a year's time. Click on the link below on the effectiveness of using birth control to prevent an unwanted pregnancy. The most effective methods of birth control are long-acting, reversible implants and the intrauterine device (IUD). Some clinics will provide immediate service for these methods.  If you want an implant or an IUD and would like to have it right away, call ahead to the clinic to see if they offer same day service for these very effective methods.</p>
 <p><a href="http://www.arhp.org/MethodMatch/">More Info</a></p>
 29}
 {30

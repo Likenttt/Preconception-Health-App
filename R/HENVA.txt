@@ -248,3 +248,14 @@
 <p>The phone number is 800-FED-INFO for information on federal services.&nbsp; FED-INFO will also direct callers to a state agency.</p>
 <p><a href="http://www.usa.gov/Contact.shtml">More Info</a>
 38}
+{39
+<p><strong>39. What percentage of personal care and cosmetic products are tested for safety by the Food and Drug Administration (FDA)? </strong></p>
+
+<li><strong>a.) All of the products </strong></li>
+<li><strong>b.) A half </strong></li>
+<li><strong>c.) A third </strong></li>
+<li><strong>d.) A fifth </strong></li>
+
+<p>D) A fifth.  Just 20% of the thousands of personal care product chemicals are tested for safety.  Many of the chemicals that are not tested by the FDA are linked to cancer, reproductive health problems and birth outcomes, allergies and other health issues. Nine personal care products are used on average every day with these products having 126 different chemicals in them. The  products include shampoo, toothpaste, soap, hair conditioner and color,  sunscreen, lip stick and balm, body lotion, deoderant and nail polish and depending on the gender, shaving products and makeup. Parents  might rub, spray or pour sunscreen, diaper cream, shampoo, lotion and insect repellant on a child's skin. Check out the Campaign for Safe Cosmetics for "More Info" and the featured video, The Story of Cosmetics. If you use cosmetics, take your time with this link and the following ones. Also, see <a href="http://www.ewg.org">"Skin Deep"</a> and <a href="http://www.goodguide.com">here for information</a> on the level of safety/danger of the personal care and cosmetic products you use. </p>
+<p><a href="http://www.safecosmetics.org/">More Info</a>
+39}

@@ -44,7 +44,7 @@
 {7
 <p><strong>7. Is there a vegetarian alternative to the healthy oils found in fish? Yes or No?&nbsp;</strong></p>
 7}
-<p>Yes.&nbsp; Vegetarian sources of healthy oils do not have the toxins of fish.&nbsp; The American Dietetic Association has stated that "vegetarian and vegan diets (no animal products) are appropriate for individuals during all stages of the life cycle and �.can be nutritionally adequate in pregnancy and result in positive maternal and infant health." J. Am. Diet Assoc. July, 2009.&nbsp; Plant sources rich in healthy oils are flax seed, chia seeds, walnuts, soy, pumpkin seeds and canola oil. &nbsp;Click below for a slide show on the importance of omega 3 fatty acids. <a href="http://www.webmd.com/diet/ss/slideshow-omega-3-health-benefits">More Info</a></p>
+<p>Yes.&nbsp; Vegetarian sources of healthy oils do not have the toxins of fish.&nbsp; The American Dietetic Association has stated that "vegetarian and vegan diets (no animal products) are appropriate for individuals during all stages of the life cycle and can be nutritionally adequate in pregnancy and result in positive maternal and infant health." J. Am. Diet Assoc. July, 2009.&nbsp; Plant sources rich in healthy oils are flax seed, chia seeds, walnuts, soy, pumpkin seeds and canola oil. &nbsp;Click below for a slide show on the importance of omega 3 fatty acids. <a href="http://www.webmd.com/diet/ss/slideshow-omega-3-health-benefits">More Info</a></p>
 
 {8
 <p><strong>8. What is the largest source of environmental mercury pollution?</strong></p>
@@ -77,7 +77,7 @@
 <p><strong>12. Do you know a way to prevent being infected with cytomegalovirus (CMV), an infection that can cause serious pregnancy problems?</strong></p>
 12}
 <p>CMV is a common virus.&nbsp; This infection may not have any symptoms for the pregnant woman but can cause seizures, hearing loss and developmental disabilities for her infant.&nbsp; The virus is contracted through contact with the saliva and urine of young children.&nbsp; Hands should be thoroughly washed after the changing of diapers and any other contact with an infant or a toddler's body fluids or any object that has the child's fluids on it.&nbsp; Infection can also occur with sexual contact with an infected person.</p>
-<p><a href="http://www.cdc.gov/features/cytomegalovirus/">http://www.cdc.gov/features/cytomegalovirus/</a></p>
+<p><a href="http://www.cdc.gov/features/cytomegalovirus/">More Info</a></p>
 
 {13
 <p><strong>13. Do you know a way to prevent listeria, an infection that can cause serious pregnancy problems?</strong></p>
@@ -89,13 +89,13 @@
 <p><strong>14. Name a homemade non-toxic household cleaner?&nbsp;</strong></p>
 14}
 <p>Baking soda and white vinegar are two inexpensive items that are used in many homemade household cleaners.&nbsp; Click the link below for videos showing you how to make your own safe cleaners.</p>
-<p><a href="http://www.womensvoices.org/take-action/green-cleaning-parties/green-cleaning-recipes">More Info</a></p>
+<p><a href="http://www.womensvoices.org/take-action-with-womens-voices/green-cleaning-parties/green-cleaning-recipes/">More Info</a></p>
 
 {15
 <p><strong>15. Do farm workers have the right to protect themselves, their families and their pregnancies from contact with agricultural pesticides, hormones and antibiotics?</strong></p>
 15}
 <p>Yes.&nbsp; You may not be a farm worker or even know anyone who grows our food and may feel that this does not concern you.&nbsp; But we as consumers are part of the food system that puts food on our table while putting farm workers at risk.&nbsp; Even before a farm worker's pregnancy "exposure of pesticides have an effect on reproductive outcomes; such as spontaneous abortion, neural tube and other birth defects and even deviation from the expected ratio of male-to-female births." Click on the link below on Reproductive Health Effects of Pesticide Exposure with farm workers.</p>
-<p><a href="http://www.farmworkerjustice.org/sites/default/files/documents/Reproductive%20Health%20Effects%20of%20Pesticide%20Exposure.pdf/">More Info</a></p>
+<p><a href="http://www.farmworkerjustice.org/sites/default/files/documents/Reproductive%20Health%20Effects%20of%20Pesticide%20Exposure.pdf">More Info</a></p>
 
 {16
 <p><strong>16. Do we as consumers have the right to protect our families and future pregnancies from the effects of pesticides and other substances?&nbsp;</strong></p>
@@ -177,7 +177,7 @@
 <p><strong>28. How can you find out about the quality of your water</strong>?</p>
 28}
 <p>Contact your local water treatment facility and ask for their annual "Consumer Confidence Report." They are required to provide it on request.&nbsp; This is usually found on their website.&nbsp; You can call the environmental health section of your local county health department and find the name or your water supplier and the labs that can test your water.&nbsp; This is suggested if you have well water. &nbsp;<a href="http://Ewg.org">Click here For Water Info</a> has information on "safe drinking water" and "baby safe water for bottles" Check out their "diagnose your drinking water tool".</p>
-<p><a href="http://www.babycenter.com/0_how-to-tell-if-your-water-is-safe_469.bc">More Info</a></p>
+<p><a href="http://www.ewg.org/research/ewgs-guide-safe-drinking-water">More Info</a></p>
 
 {29
 <p><strong>29. What is one thing someone can do to reduce water pollution at home?</strong></p>
@@ -210,7 +210,7 @@
 <li><strong>h.) All of them</strong></li>
 32}
 <p>h.) All of them use toxic chemicals. If you work in any of these fields, use protective clothing and gear. If you are pregnant or trying to conceive, ask for a safe alternate job.&nbsp; If someone else in your home has work clothes that may be contaminated with a toxic substance and you are pregnant or want to get pregnant, have someone else wash the clothing.&nbsp; Also, contaminated shoes and clothing should be kept out of the house or in a designated room.&nbsp; You have the right to work in a safe workplace.&nbsp; If you feel you are not safe, you can contact the Occupational and Safety Health Administration (OSHA) for help by going to the link below or call OSHA at 800-321-OSHA.</p>
-<p><a href="https://www.osha.gov/workers.htm">More Info</a>l</p>
+<p><a href="https://www.osha.gov/workers.html">More Info</a></p>
 
 {33
 <p><strong>33. Where can you find more information on how to deal with a problem with exposure to toxic material at work?</strong></p>
@@ -240,10 +240,22 @@
 <p><strong>37. Should we be concerned about climate change affecting our health and the health of our children and our children</strong><strong>'s children?</strong></p>
 37}
 <p>Yes, we all need to avoid the health consequences of a warming planet.&nbsp; Health is a life-course goal and that means as we pass life onto our next generation, we need to be concerned about their health, and the health of their children, and on and on.&nbsp; This is our responsibility, even if some people deny the problem and our responsibility.</p>
-<p><a href="http://www.epa.gov/climatechange/impacts-adaptation/health.html">More Info</a></p>
+<p><a href="http://thinkprogress.org/climate/2015/10/06/3709407/low-birth-weight-climate/">More Info</a></p>
 
 {38
 <p><strong>38. How can you reach any governmental agency</strong>?</p>
 38}
 <p>The phone number is 800-FED-INFO for information on federal services.&nbsp; FED-INFO will also direct callers to a state agency.</p>
 <p><a href="http://www.usa.gov/Contact.shtml">More Info</a>
+
+{39
+<p><strong>39. What percentage of personal care and cosmetic products are tested for safety by the Food and Drug Administration (FDA)? </strong></p>
+
+<li><strong>a.) All of the products </strong></li>
+<li><strong>b.) A half </strong></li>
+<li><strong>c.) A third </strong></li>
+<li><strong>d.) A fifth </strong></li>
+39}
+<p>D) A fifth.  Just 20% of the thousands of personal care product chemicals are tested for safety.  Many of the chemicals that are not tested by the FDA are linked to cancer, reproductive health problems and birth outcomes, allergies and other health issues. Nine personal care products are used on average every day with these products having 126 different chemicals in them. The  products include shampoo, toothpaste, soap, hair conditioner and color,  sunscreen, lip stick and balm, body lotion, deoderant and nail polish and depending on the gender, shaving products and makeup. Parents  might rub, spray or pour sunscreen, diaper cream, shampoo, lotion and insect repellant on a child's skin. Check out the Campaign for Safe Cosmetics for "More Info" and the featured video, The Story of Cosmetics. If you use cosmetics, take your time with this link and the following ones. Also, see www.ewg.org "Skin Deep" and www.goodguide.com for information  on the level of safety/danger of the personal care and cosmetic products you use. </p>
+<p><a href="http://www.safecosmetics.org/">More Info</a>
+

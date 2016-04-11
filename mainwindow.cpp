@@ -325,10 +325,10 @@ void MainWindow::initAHC()
 {
     if(!AHC.getExist())
     {
-        AHC.vecInit(18);
+        AHC.vecInit(19);
         AHC.setAnFile(":AHCA");
     AHC.setQuFile(":AHCQ");
-    AHC.setSize(18);
+    AHC.setSize(19);
     AHC.setExist(true);
     }
 
@@ -341,10 +341,10 @@ void MainWindow::initHE()
 {
     if(!HE.getExist())
     {
-        HE.vecInit(26);
+        HE.vecInit(27);
         HE.setAnFile(":HEA");
     HE.setQuFile(":HEQ");
-    HE.setSize(26);
+    HE.setSize(27);
     HE.setExist(true);
     }
 
@@ -439,10 +439,10 @@ void MainWindow::initHENV()
 {
     if(!HENV.getExist())
     {
-        HENV.vecInit(39);
+        HENV.vecInit(40);
         HENV.setAnFile(":HENVA");
     HENV.setQuFile(":HENVQ");
-    HENV.setSize(39);
+    HENV.setSize(40);
     HENV.setExist(true);
     }
 
