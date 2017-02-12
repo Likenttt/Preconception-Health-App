@@ -72,117 +72,113 @@
 <p><a href="http://www.zerohedge.com/news/2013-08-22/poverty-mental-illness-infographic">More Info</a></p>
 
 {12
-<p><strong>12. Does the ongoing stress related to the discrimination of racial and ethnic minorities contribute to health inequalities such as higher rates of diabetes, obesity, heart disease and poorer birth results.&nbsp; Yes or No?&nbsp;</strong></p>
+<p><strong>12. Does the ongoing stress related systemic racism contribute to health inequalities such as higher rates of diabetes, obesity, heart disease and poorer birth results.&nbsp; Yes or No?&nbsp;</strong></p>
 12}
-<p>Yes.&nbsp; Racial and ethnic minorities have health that is worse overall than the health of white, non-Hispanic Americans.&nbsp; Health disparities may stem from economic situations, education, geography and neighborhood, environmental exposures, lower-quality health care, inadequate access to care, inability to navigate the system, provider ignorance, bias or stress.&nbsp; Check out the link below for the role of prolonged stress on racial and ethnic minorities.</p>
-<p><a href="http://www.apa.org/topics/health-disparities/fact-sheet-stress.aspx">More Info</a></p>
 
 {13
-<p><strong>13. College and graduate school educated black women have a higher infant mortality rate than white mothers who did not finish high school? True or False? &nbsp;</strong></p>
+<p><strong>13. True or False? African American and Native American women have low birth weight and premature babies at the same rate as white women?</strong></p>
 13}
-<p>True. Studies show that the "weathering" effect of racism on black women, even though they are highly educated, contributes to more preterm, low birth weight and infant deaths than white women experience, even if the white women did not complete high school.&nbsp; All factors, including genetics, were accounted for in this research.&nbsp; Click below a brief video clip of Michael Lu, M.D., explaining that a "life course approach" to overall health is needed to eliminate this disparity.&nbsp; You may have to click "More Info" twice to get the link.</p>
-<p><a href="http://www.unnaturalcauses.org/video_clips_detail.php?res_id=70">More Info</a></p>
 
 {14
-<p><strong>14. What is post-traumatic stress disorder (PTSD)?</strong></p>
+<p><strong>14. College and graduate school educated black women have a higher infant mortality rate than white mothers who did not finish high school? True or False? &nbsp;</strong></p>
 14}
-<p>The Cleveland Clinic defines PTSD as an anxiety disorder that a person can develop after experiencing or witnessing a traumatic event or life threatening situation.&nbsp; A traumatic event can be any situation that causes stress, horror, helplessness, serious injury, or the threat of serious injury or death.&nbsp; The March of Dimes states that high levels of stress can also cause high blood pressure, which increases the chance of preterm labor or a low birth weight infant. &nbsp;PTSD Hotlines: Veterans Crisis Line: 800-273-TALK (8255) Veterans press 1 National Veterans Foundation Hotline: 888-777-4443&nbsp; Rape, Abuse and Incest National Network: 800-656-4673 National Domestic Violence Hotline: 800-799-7233 National Council on Alcoholism and Drug Dependence Hope Line: 800-622-2255&nbsp; Gulf War Veterans Hotline: 800-796-9699 Click the link below for research on stress, PTSD and pregnancy outcomes.</p>
-<p><a href="https://www.nichd.nih.gov/health/topics/preconceptioncare/conditioninfo/pages/stress.aspx">More Info</a></p>
 
 {15
-<p><strong>15. Since the economic recovery has started, how has the monetary gain been shared by Americans?</strong></p>
+<p><strong>15. What aspects of life are affected by the systemic racism of African Americans and other minorities?</strong></p>
+15}
+
+{16
+<p><strong>16. Can you name one action white people can do to end racism?</strong></p>
+16}
+
+{17
+<p><strong>17. What can you do to protect the victim of a racist verbal attack?</strong></p>
+17}
+
+{18
+<p><strong>18. What is post-traumatic stress disorder (PTSD)?</strong></p>
+18}
+
+
+{19
+<p><strong>19. Since the economic recovery has started, how has the monetary gain been shared by Americans?</strong></p>
 
 <li><strong>a.) Evenly shared with about 95% of the financial gain going to about 95% of Americans</strong></li>
 <li><strong>b.) Not shared much at all, with 95% of the gains going to 25% of the wealthier Americans</strong></li>
 <li><strong>c.) Inequality on steroids with 95% of the gains going to, the wealthiest of the wealthy, 1 (one) % of Americans</strong></li>
-15}
-<p>c.) Almost all of the wealth in the recovery has gone to the wealthiest 1% of Americans and the gap in the inequality in pay from CEO to the average worker continues to get wider. This is pitiful when the reality is that millions of Americans are struggling and many are desperate.&nbsp; This is another reason why there is more ongoing, day-to-day stress with Americans living in poverty and with the fading American middle class.&nbsp; This absurd, unequal system of maintaining poverty contributes to poor overall health and ultimately, poor birth outcomes.</p>
+19}
 
-{16
-<p><strong>16. How much are women paid compared to men today for equal work?</strong></p>
+
+{20
+<p><strong>20. How much are women paid compared to men today for equal work?</strong></p>
 
 <li><strong>a.) 100%, the same as men</li>
 <li><strong>b.) 89% of what men make</li>
-<li><strong>c.) 77% of what men make</li>
-16}
-<p>c.) Today, women earn about 77 cents on the dollar compared to men, a gap that results in hundreds of thousands of dollars in lost wages, retirement and social security. For African American women, Latinas and women with disabilities, the pay gap is even bigger.\n\n If you want to know more about the Equal Pay Act or if you are not receiving equal pay for equal work, you can call the Department of Labor at 866-487-2365 for help or go to the link below. Equal pay information is available in multiple languages.</p>
-<p><a href="http://www.dol.gov/equalpay/equalpay-employee.pdf">More Info</a></p>
-
-{17
-<p><strong>17. Looking for a career? Can you name a few of today</strong><strong>'s 100 best careers with a living wage</strong>?</p>
-17}
-<p>Dentist, Registered Nurse, Pharmacist, Computer Systems Analyst and Physician are the top five</p>
-<p><a href="http://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs">More Info</a></p>
-
-{18
-<p><strong>18. Where would someone find a mentor or a life coach? If you want to be a mentor or a life coach, where would you find more about this opportunity?&nbsp;</strong></p>
-18}
-<p>Search:&nbsp; Your city or region United Way mentorship, the National Association of Professional Women, League of Black Women,&nbsp; Big Brothers Big Sisters, The Girls and Boys Club, YWCA, Girls, Inc., Girl Scouts,&nbsp; Kids at Hope, Mental Health Association, your literacy council, your school district mentoring program, Just Us Girls, etc.&nbsp; Keep looking till you find what you want.&nbsp; If you would like to have a mentor or be one, use the "Become a Mentor" button. To find a partial list of mentoring organizations near you. Tip: If you are a mentor, sincerely listen to the young person.&nbsp; This demonstrates respect, a quality that young people often find missing in adults.&nbsp; If you are being mentored, be thankful and show your respect by listening.</p>
-<p><a href="http://www.mentoring.org/get_involved/become_a_mentor/">More Info</a></p>
-
-{19
-<p><strong>19. Is attending a community college a good option for obtaining the career training needed for a living wage job or the skills to start your own business?&nbsp;</strong></p>
-19}
-<p>Yes.&nbsp; People with two year community college skilled training degrees are creating 21st century careers.&nbsp; Community college yearly tuition is usually less than a 4 year college with half the time devoted to the training.&nbsp; This leaves a community college grad with less debt and a marketable career, two years sooner. Help is available from community college counselors and/or search your state workforce (e.g. 'Florida workforce') for your local Workforce Board for career development and employment help.&nbsp; You can also search doleta.gov/jobseekers for job and career information.&nbsp; Go to a directory of free open online courses from top universities at www.mooc-list.com.&nbsp; Learn at your own schedule and pace.&nbsp; Check out Edx.org, coursera.org, udacity.com, openculture.com, degreesearch.org or search "free on-line courses".For a list of all of the two year colleges in the U.S. by state:</p>
-<p><a href="http://www.applyingtoschool.com/forms/ComCol-State.aspx">More Info</a></p>
-
-{20
-<p><strong>20. What is a Women</strong><strong>'s Study Program?</strong></p>
+<li><strong>c.) 79% of what men make</li>
 20}
-<p>Women's Study Programs, also known as Feminist or Gender Studies, are college based programs that explore politics, society, media and history from women's and/or feminist perspectives.&nbsp; The field researches and critiques social norms of gender, race, class, sexuality and other social inequalities.&nbsp; This training would help a woman be a leader in the movement toward gender equality and women�s rights.&nbsp; Click "More Info" for an alphabetical list by name of schools.&nbsp; Search "Women's Study Programs Artemis" for a list by state.&nbsp; Links to online courses are included.</p>
-<p><a href="http://userpages.umbc.edu/~korenman/wmst/programs.html">More Info</a></p>
+
 
 {21
-<p><strong>21. What is the largest woman</strong><strong>'s organization in the United States whose goal is </strong><strong>"to take action</strong><strong>"</strong><strong> to bring about equality for all women?</strong></p>
+<p><strong>21. Looking for a career? Can you name a few of today</strong><strong>'s 100 best careers with a living wage</strong>?</p>
 21}
-<p>NOW! The National Organization for Women is the largest organization of feminist activists in the United States.&nbsp; Click "More Info" and do a NOW search of "young feminists" and check out "Young Feminists and Allies Virtual NOW".</p>
-<p><a href="http://now.org/about/">More Info</a></p>
+
 
 {22
-<p><strong>22. Name a world-wide organization of men whose purpose is to work for equality for women</strong>?</p>
+<p><strong>22. Where would someone find a mentor or a life coach? If you want to be a mentor or a life coach, where would you find more about this opportunity?&nbsp;</strong></p>
 22}
-<p>HeforShe is a United Nations sponsored solidarity movement for gender equality that brings together one half of humanity in support of the other half of humanity, for the benefit of all.&nbsp; Click "More Info" on how to take action and make a commitment to take action against all forms of violence and discrimination faced by women and girls. <a href="http://www.heforshe.org/">More Info</a></p>
+
 
 {23
-<p><strong>23. What is the percentage of women who are in our current U.S. House of Representatives?</strong></p>
+<p><strong>23. Is attending a community college a good option for obtaining the career training needed for a living wage job or the skills to start your own business?&nbsp;</strong></p>
+23}
+
+
+{24
+<p><strong>24. What is a Women</strong><strong>'s Study Program?</strong></p>
+24}
+
+
+{25
+<p><strong>25. What is the largest woman</strong><strong>'s organization in the United States whose goal is </strong><strong>"to take action</strong><strong>"</strong><strong> to bring about equality for all women?</strong></p>
+25}
+
+
+{26
+<p><strong>26. Name a world-wide organization of men whose purpose is to work for equality for women</strong>?</p>
+26}
+
+{27
+<p><strong>27. What is the percentage of women who are in our current U.S. House of Representatives?</strong></p>
 
 <li><strong>a.) 50%, the same number of men as women</strong></li>
 <li><strong>b.) 34% women and 66% men</strong></li>
 <li><strong>c.) 19% women and 81% men</strong></li>
-23}
-<p>c) 19% women. Men have a huge gender advantage in Congress and a large majority in all of the state legislatures in the country. How can the rights and interests of women be honored in a "representative" democracy with women being so grossly unrepresented in Congress and other levels of government?&nbsp; Not going to happen.</p>
-<p><a href="http://tag.rutgers.edu/unveiling-teach-a-girl-to-lead/">More Info</a></p>
+27}
 
-{24
-<p><strong>24. Where can you learn about becoming more active in the cause that promotes gender equality and justice?</strong></p>
-24}
-<p>One movement that promotes equality and justice for all is the Representation Project.&nbsp; It inspires individuals to challenge the way our culture treats people because they are female or male.&nbsp; Their goal is to ultimately transform our culture so everyone, regardless of gender, race, class, age, sexual orientation or circumstances can fulfill their potential.&nbsp; Check-out the short video 'Rewrite the Story'.</p>
-<p><a href="http://therepresentationproject.org/about/mission/">More Info</a></p>
 
-{25
-<p><strong>25. True or False: Using the democratic right to vote in elections can actually improve a voter</strong><strong>'s health?</strong></p>
-25}
-<p>True.&nbsp; Voting is good for our health! Part of overall health is to empower ourselves so we exercise control over the things in life that are under our control, such as VOTING!&nbsp; Research says expressing your right to vote may help promote good mental health and, in turn, good physical health..&nbsp; The people who benefit most are those who are disadvantaged in health, income, quality of community or job status.&nbsp; Check out this research.</p>
-<p><a href="http://www.webmd.com/mental-health/features/voting-counts-as-healthy-habit">More Info</a></p>
+{28
+<p><strong>28. Where can you learn about becoming more active in the cause that promotes gender equality and justice?</strong></p>
+28}
 
-{26
-<p><strong>26. Are you 17 or older and registered to vote? Yes or No</strong>?</p>
-26}
-<p>You can register to vote by going to the online service provided by the U.S. government or call your local county Supervisor of Elections office.&nbsp; They will send you a registration form.&nbsp; You can also get a form from them on line or you can go to your local elections office to register.&nbsp; If you have laws in your state that make it difficult to vote, consider joining others who may be challenging these laws.&nbsp; Since voting is the essence of our democracy, it should be the easiest action to do so no American is excluded! Search "aclu promoting access ballot" and find the ACLU office in your state or region.&nbsp; The ACLU works on protecting voters rights and they assist U.S. citizens, who are former felons to get their civil and voting rights back.</p>
-<p><a href="http://www.usa.gov/Citizen/Topics/Voting/Register.shtml">More Info</a></p>
 
-{27
-<p><strong>27. What is a very simple relaxation technique that can help manage stress, costs nothing and can be practiced throughout the day?</strong></p>
+{29
+<p><strong>29. True or False: Using the democratic right to vote in elections can actually improve a voter</strong><strong>'s health?</strong></p>
+29}
+
+
+{30
+<p><strong>30. Are you 17 or older and registered to vote? Yes or No</strong>?</p>
+30}
+
+{31
+<p><strong>31. What is a very simple relaxation technique that can help manage stress, costs nothing and can be practiced throughout the day?</strong></p>
 
 <li><strong>a.) Day dreaming</strong></li>
 <li><strong>b.) Napping</strong></li>
 <li><strong>c.) Focusing the mind on your breath</strong></li>
-27}
-<p>c.) Focusing the mind on the breath is a good relaxation technique. Our breath is natural, always available to pay attention to, always in the present moment and is never judgmental.&nbsp; Even a few minutes of quiet focus can be helpful.&nbsp; Here is how to do a breath counting technique.&nbsp; Sit straight in a comfortable chair, preferably in a quiet place, eyes closed.&nbsp; Become aware of your breathing.&nbsp; When you are in touch with the sensation of breathing, silently count one as you breathe out, two as you breathe in, three as you breathe out.&nbsp; Continue until you reach ten, and then start over again.&nbsp; When your mind drifts, that's ok.&nbsp; Just start again.</p>
-<p><a href="http://marc.ucla.edu/body.cfm?id=22">http://marc.ucla.edu/body.cfm?id=22</a></p>
+31}
 
-{28
-<p><strong>28. Do you know one of 10 scientifically proven ways to make someone happier?&nbsp; Yes or No</strong>?</p>
-28}
-<p>Exercise is proven to help overcome depression, and getting enough sleep helps overcome negative feelings.&nbsp; Whether you knew or not, go to the link below for eight other ways.</p>
-<p><a href="http://blog.bufferapp.com/10-scientifically-proven-ways-to-make-yourself-happier">More Info</a>
+
+{32
+<p><strong>32. Do you know one of 10 scientifically proven ways to make someone happier?&nbsp; Yes or No</strong>?</p>
+32}

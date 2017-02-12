@@ -9,7 +9,7 @@
 <p><a href="http://www.cdc.gov/violenceprevention/intimatepartnerviolence/definitions.html">More Info</a></p>
 
 {2
-<p><strong>2. Is intimate partner violence only the physical harm done?&nbsp; Yes or No</strong>?</p>
+<p><strong>2. Is intimate partner violence only the physical harm done? Yes or No?</strong></p>
 2}
 <p>No, there are four main types of intimate partner violence:&nbsp; Physical, sexual, threats of physical and sexual violence and psychological / emotional / economic violence.&nbsp; Click below for a description of each type of violence.</p>
 <p><a href="http://www.nij.gov/nij/topics/crime/intimate-partner-violence/welcome.htm">More Info</a></p>
@@ -21,7 +21,7 @@
 <p><a href="http://msmagazine.com/blog/2012/02/01/hervotes-how-economic-insecurity-enables-abuse/">More Info</a></p>
 
 {4
-<p><strong>4. Is there help for a victim to gain financial independence?&nbsp; Yes or No</strong>?</p>
+<p><strong>4. Is there help for a victim to gain financial independence? Yes or No?</strong></p>
 4}
 <p>Yes.&nbsp; The victim can plan for their safety by contacting their local domestic violence program.&nbsp; They should also monitor their credit regularly and open a post office box for mail and any financial information. Click the link for financial tips for victims and survivors.</p>
 <p><a href="http://www.nnedv.org/projects/ecojustice/allstate/financialtips.html">More Info</a></p>
@@ -39,7 +39,7 @@
 <p><a href="http://www.futureswithoutviolence.org/userfiles/file/Children_and_Families/Reproductive.pdf">More Info</a></p>
 
 {7
-<p><strong>7. What percentage of women are victims of intimate partner violence?&nbsp; What percentage of men are victims?</strong></p>
+<p><strong>7. What percentage of women are victims of intimate partner violence? What percentage of men are victims?</strong></p>
 
 <li><strong>a.) About 1 in 10 women and 1 in 20 men</strong></li>
 <li><strong>b.) About 1 in 4 women and 1 in 12 men</strong></li>

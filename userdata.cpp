@@ -1,7 +1,7 @@
 #include "userdata.h"
 UserData::UserData():index(0),score(0),exist(false),active(false){}
 UserData::UserData(int s):index(0),score(0),exist(false),active(false){size= s;}
-UserData::~UserData(){delete this;}
+UserData::~UserData(){}
 void UserData::setSize(int s){size=s;}
 void UserData::setAnFile(QString s){answerFile= s;}
 void UserData::setQuFile(QString s){questFile = s;}

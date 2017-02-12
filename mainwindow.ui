@@ -141,6 +141,55 @@
            </property>
           </spacer>
          </item>
+         <item row="0" column="0">
+          <widget class="QPushButton" name="moreInfo">
+           <property name="sizePolicy">
+            <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
+             <horstretch>0</horstretch>
+             <verstretch>0</verstretch>
+            </sizepolicy>
+           </property>
+           <property name="minimumSize">
+            <size>
+             <width>62</width>
+             <height>40</height>
+            </size>
+           </property>
+           <property name="font">
+            <font>
+             <pointsize>16</pointsize>
+             <weight>75</weight>
+             <bold>true</bold>
+            </font>
+           </property>
+           <property name="focusPolicy">
+            <enum>Qt::NoFocus</enum>
+           </property>
+           <property name="styleSheet">
+            <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
+       
+               background-position:left top;
+ border: 2px solid #C4C4C3;
+border-color:darkgray;    
+border-bottom-color: black; /* same as the pane color */
+    border-radius: 22px;
+    color: rgba(255,255,255,.7);
+    min-width: 8ex;
+    padding: 15px;
+	border-width: 4px;}</string>
+           </property>
+           <property name="text">
+            <string>Reset Quiz</string>
+           </property>
+          </widget>
+         </item>
+         <item row="6" column="0">
+          <layout class="QGridLayout" name="gridLayout_5">
+           <property name="spacing">
+            <number>0</number>
+           </property>
+          </layout>
+         </item>
          <item row="7" column="0">
           <layout class="QGridLayout" name="gridLayout_7">
            <property name="spacing">
@@ -243,55 +292,6 @@ border-bottom-color: black; /* same as the pane color */
              </property>
             </widget>
            </item>
-          </layout>
-         </item>
-         <item row="0" column="0">
-          <widget class="QPushButton" name="moreInfo">
-           <property name="sizePolicy">
-            <sizepolicy hsizetype="Expanding" vsizetype="Preferred">
-             <horstretch>0</horstretch>
-             <verstretch>0</verstretch>
-            </sizepolicy>
-           </property>
-           <property name="minimumSize">
-            <size>
-             <width>62</width>
-             <height>40</height>
-            </size>
-           </property>
-           <property name="font">
-            <font>
-             <pointsize>16</pointsize>
-             <weight>75</weight>
-             <bold>true</bold>
-            </font>
-           </property>
-           <property name="focusPolicy">
-            <enum>Qt::NoFocus</enum>
-           </property>
-           <property name="styleSheet">
-            <string notr="true">QPushButton {background:  rgba(128,128,128,0.3);
-       
-               background-position:left top;
- border: 2px solid #C4C4C3;
-border-color:darkgray;    
-border-bottom-color: black; /* same as the pane color */
-    border-radius: 22px;
-    color: rgba(255,255,255,.7);
-    min-width: 8ex;
-    padding: 15px;
-	border-width: 4px;}</string>
-           </property>
-           <property name="text">
-            <string>Reset Quiz</string>
-           </property>
-          </widget>
-         </item>
-         <item row="6" column="0">
-          <layout class="QGridLayout" name="gridLayout_5">
-           <property name="spacing">
-            <number>0</number>
-           </property>
           </layout>
          </item>
          <item row="4" column="0">
@@ -459,39 +459,6 @@ border-bottom-color: black; /* same as the pane color */
            </layout>
           </widget>
          </item>
-         <item row="2" column="0">
-          <widget class="QTextBrowser" name="textBrowser">
-           <property name="font">
-            <font>
-             <pointsize>20</pointsize>
-            </font>
-           </property>
-           <property name="acceptDrops">
-            <bool>false</bool>
-           </property>
-           <property name="layoutDirection">
-            <enum>Qt::LeftToRight</enum>
-           </property>
-           <property name="frameShape">
-            <enum>QFrame::NoFrame</enum>
-           </property>
-           <property name="frameShadow">
-            <enum>QFrame::Plain</enum>
-           </property>
-           <property name="verticalScrollBarPolicy">
-            <enum>Qt::ScrollBarAlwaysOff</enum>
-           </property>
-           <property name="sizeAdjustPolicy">
-            <enum>QAbstractScrollArea::AdjustToContents</enum>
-           </property>
-           <property name="textInteractionFlags">
-            <set>Qt::LinksAccessibleByKeyboard|Qt::LinksAccessibleByMouse</set>
-           </property>
-           <property name="openExternalLinks">
-            <bool>false</bool>
-           </property>
-          </widget>
-         </item>
          <item row="5" column="0">
           <widget class="QPushButton" name="showMe">
            <property name="sizePolicy">
@@ -531,6 +498,39 @@ border-bottom-color: black; /* same as the pane color */
            </property>
            <property name="text">
             <string>Show Answer</string>
+           </property>
+          </widget>
+         </item>
+         <item row="2" column="0">
+          <widget class="QTextBrowser" name="textBrowser">
+           <property name="font">
+            <font>
+             <pointsize>20</pointsize>
+            </font>
+           </property>
+           <property name="acceptDrops">
+            <bool>false</bool>
+           </property>
+           <property name="layoutDirection">
+            <enum>Qt::LeftToRight</enum>
+           </property>
+           <property name="frameShape">
+            <enum>QFrame::NoFrame</enum>
+           </property>
+           <property name="frameShadow">
+            <enum>QFrame::Plain</enum>
+           </property>
+           <property name="verticalScrollBarPolicy">
+            <enum>Qt::ScrollBarAlwaysOff</enum>
+           </property>
+           <property name="sizeAdjustPolicy">
+            <enum>QAbstractScrollArea::AdjustToContents</enum>
+           </property>
+           <property name="textInteractionFlags">
+            <set>Qt::LinksAccessibleByKeyboard|Qt::LinksAccessibleByMouse</set>
+           </property>
+           <property name="openExternalLinks">
+            <bool>true</bool>
            </property>
           </widget>
          </item>

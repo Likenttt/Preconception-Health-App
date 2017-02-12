@@ -11,8 +11,6 @@
         <file alias="nut">R/NUT.png</file>
         <file alias="simb">R/SIMB.png</file>
         <file alias="pa">R/PA.png</file>
-        <file alias="ADQ0">R/ADQ0.txt</file>
-        <file alias="ADA0">R/ADA0.txt</file>
         <file alias="SIMBA">R/SIMBA.txt</file>
         <file alias="SIMBQ">R/SIMBQ.txt</file>
         <file alias="AHCA">R/AHCA.txt</file>
@@ -31,5 +29,7 @@
         <file alias="IPVQ">R/IPVQ.txt</file>
         <file alias="smoke">R/smoke.png</file>
         <file alias="about">R/ABOUT.txt</file>
+        <file alias="ADA">R/ADA.txt</file>
+        <file alias="ADQ">R/ADQ.txt</file>
     </qresource>
 </RCC>

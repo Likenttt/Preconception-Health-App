@@ -1,0 +1,41 @@
+﻿<div class="entry-content">
+{0
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Alcohol and Drugs</b</span></em></p>
+<p>Alcohol is the most common cause of liver failure and other serious health problems, like cancer, for adults.&nbsp; Alcohol can cause miscarriage, still birth and a huge list of lifelong problems for a child.&nbsp; These are known as fetal alcohol spectrum disorders (FASDs).&nbsp; It is critically important for a woman to stop drinking alcohol before she becomes pregnant and not drink all the way through her pregnancy. Alcohol is involved in half of all deadly car accidents, a majority of sexually transmitted infections and most cases of domestic violence. Women have a lower tolerance than men to the negative effects of alcohol.&nbsp; Refuse to be a passenger in a car when you know the driver has been drinking or is impaired with any substance.&nbsp; Of course, do not drink and then drive.&nbsp; Make sure everyone uses their seatbelt and the driver is not texting or talking on the cell phone or doing anything else but driving.</p>
+0}
+
+{1
+<p><strong>1. What is one of the many disorders associated with Fetal Alcohol Spectrum Disorders (FASDs)?</strong></p>
+1}
+
+{2
+<p><strong>2. How long before getting pregnant should a woman stop drinking alcohol and using street drugs?</strong></p>
+2}
+
+{3
+<p><strong>3. What is the daily amount of alcohol that is considered acceptable for most women when NOT pregnant?</strong></p>
+
+<li><strong>a.) 3 - 5 drinks per day</strong></li>
+<li><strong>b.) 2 drinks per day</strong></li>
+<li><strong>c.) 1 drink per day</strong></li>
+
+3}
+
+{4
+<p><strong>4. True or False? Alcohol, tobacco and drug use for women before pregnancy is the strongest indication of their use during pregnancy.</strong></p>
+4}
+
+{5
+<p><strong>5. True or False? Heroin overdose prevention policies have proven to work?</strong></p>
+5}
+
+{6
+<p><strong>6. Whether a pregnancy is planned or not, should a woman (and her male partner) talk to their health care provider about any non-prescribed and prescribed medications, street drugs, over the counter medications, dietary and herbal supplements they are taking?</strong></p>
+6}
+
+
+
+{7
+<p><strong>7. Should energy drinks like Red Bull, Monster Energy Assault and Rockstar be avoided or used with moderation?&nbsp;</strong></p>
+7}
+

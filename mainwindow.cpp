@@ -8,6 +8,8 @@
 #include <QDesktopServices>
 #include <QMessageBox>
 #include<QScrollBar>
+#include<QAbstractScrollArea>
+
 
 MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
@@ -23,6 +25,13 @@ MainWindow::MainWindow(QWidget *parent) :
 
     ui->textBrowser->setOpenExternalLinks(true);
     QScroller::grabGesture(ui->textBrowser,QScroller::LeftMouseButtonGesture);
+
+
+    QVariant OvershootPolicy = QVariant::fromValue<QScrollerProperties::OvershootPolicy>(QScrollerProperties::OvershootAlwaysOff);
+    QScrollerProperties sp = QScroller::scroller(ui->textBrowser->viewport())->scrollerProperties();
+
+
+    QScroller::scroller(ui->textBrowser->viewport())->setScrollerProperties(sp);
 
 
     current = &dummy;
@@ -143,7 +152,7 @@ void MainWindow::backLayout()
 }
 void MainWindow::mainMenu()
 {
- this->setStyleSheet("background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(51, 51, 255, .3), stop:1 rgba(153, 255, 204, .3)) ");
+ this->setStyleSheet("background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:0, y2:1, stop:0 rgba(51, 51, 255, .3), stop:1 rgba(153, 255, 204, .3)) ");
     ui->groupBox->setVisible(true);
     ui->groupBox_2->setVisible(false);
     if(AHC.getActive())
@@ -179,37 +188,42 @@ void MainWindow::fileLoader(QString infile, QString prompt)
 {
     ui->textBrowser->clear();
    QString temp1 ="{"+prompt;
-   QString temp2;
-   QString temp3;
-    QFile file(infile);
-        if(!file.open(QIODevice::ReadOnly))
-        {ui->textBrowser->setText("FILE NOT FOUND");}
-    else{
-        QTextStream in(&file);
-        while (!in.atEnd())
-        {temp2 = in.readLine();
-            if (temp2 == temp1)
-                break;
-        }
-        if (temp2 == temp1)
-             {while (!in.atEnd())
-            {
-                temp3 = in.readLine();
-                if (temp3 == prompt+ "}")
-                    break;
-                else
-                {
+   QString temp2,temp3,temp4;
 
-                ui->textBrowser->append(temp3);}
+   QFile file(infile);
 
-            }
-        }
+  if(!file.open(QIODevice::ReadOnly))
+  {
+       ui->textBrowser->setText("FILE NOT FOUND");
+       return;
+  }
+
+
+     QTextStream in(&file);
+     while (!in.atEnd())
+     {
+         temp2 = in.readLine();
+           if (temp2 == temp1)
+               break;
+
+     }
+   while (!in.atEnd())
+   {
+    while ((temp3 = in.readLine())!= prompt+"}")
+      {
+         temp4 += temp3;
+      }
+
+      ui->textBrowser->append(temp4);
+      break;
+   }
+
 
  ui->textBrowser->verticalScrollBar()->setValue(0);
 
 
 }
-}
+
 
 void MainWindow::loadAnswer()
 {
@@ -264,7 +278,7 @@ void MainWindow::resetCurrentQuiz()
         return;
     QMessageBox msgBox;
 
-    msgBox.setText("Are you sure you want to rest this score?");
+    msgBox.setText("Are you sure you want to reset this score?");
     msgBox.setText("Reset Quiz?.");
     msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::Cancel);
     int choice = msgBox.exec();
@@ -282,7 +296,7 @@ void MainWindow::quizReset()
         return;
     QMessageBox msgBox;
    
-    msgBox.setText("Are you sure you want to rest all quiz scores?");
+    msgBox.setText("Are you sure you want to reset all quiz scores?");
     msgBox.setText("Reset all Quizes?.");
     msgBox.setStandardButtons(QMessageBox::Yes | QMessageBox::Cancel);
     int choice = msgBox.exec();
@@ -307,10 +321,10 @@ void MainWindow::initSIMB()
 {
     if(!SIMB.getExist())
     {
-        SIMB.vecInit(47);
+        SIMB.vecInit(50);
         SIMB.setAnFile(":SIMBA");
     SIMB.setQuFile(":SIMBQ");
-    SIMB.setSize(47);
+    SIMB.setSize(50);
     SIMB.setExist(true);
     }
 
@@ -390,10 +404,10 @@ void MainWindow::initMH()
 {
     if(!MH.getExist())
     {
-        MH.vecInit(29);
+        MH.vecInit(33);
         MH.setAnFile(":MHA");
     MH.setQuFile(":MHQ");
-    MH.setSize(29);
+    MH.setSize(33);
     MH.setExist(true);
     }
 
@@ -422,10 +436,10 @@ void MainWindow::initAandD()
 {
     if(!AandD.getExist())
     {
-        AandD.vecInit(7);
-        AandD.setAnFile(":ADA0");
-    AandD.setQuFile(":ADQ0");
-    AandD.setSize(7);
+        AandD.vecInit(8);
+        AandD.setAnFile(":ADA");
+    AandD.setQuFile(":ADQ");
+    AandD.setSize(8);
     AandD.setExist(true);
     }
 
@@ -439,10 +453,10 @@ void MainWindow::initHENV()
 {
     if(!HENV.getExist())
     {
-        HENV.vecInit(40);
+        HENV.vecInit(42);
         HENV.setAnFile(":HENVA");
     HENV.setQuFile(":HENVQ");
-    HENV.setSize(40);
+    HENV.setSize(42);
     HENV.setExist(true);
     }
 

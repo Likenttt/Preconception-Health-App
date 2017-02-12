@@ -84,7 +84,7 @@
 
 {12
 
-<p><strong>12. Are you interested in finding out more about vegetarianism or veganism, Yes or No</strong>?</p>
+<p><strong>12. Are you interested in finding out more about vegetarianism or veganism, Yes or No?</strong></p>
 12}
 <p>Search "vrg nutrition" for the vegetarian resource group website.&nbsp; Check out your local natural foods store or vegetarian restaurant if you want to learn more. Check out the link below for the Mayo Clinic's take on vegetarianism.</p>
 <p><a href="http://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/vegetarian-diet/art-20046446">More Info</a></p>
@@ -109,7 +109,7 @@
 
 {15
 
-<p><strong>15. Would you and your family prefer to consume food with less pesticide residue, antibiotics and hormones</strong>?</p>
+<p><strong>15. Would you and your family prefer to consume food with less pesticide residue, antibiotics and hormones?</strong></p>
 15}
 <p>If yes, buy or grow some food that is organically grown.&nbsp; Food is labeled "certified organic" or you can buy it locally from a farmer/gardener you know who grows their food organically.&nbsp; Some growers do not become "certified organic", but do grow organically.&nbsp; Know your local grower and find out if they are "organic" or not. Healthy bacterial colonies, such as in the gut, lead to a healthier immune system which can boast reproductive health.  Antibiotics, whether as medication, in food or in personal care products, like hand soap, can disturb these important, healthy bacteria and can contribute to poor birth outcomes. &nbsp; Click the link below for Mayo Clinic's view on the differences between organically grown food and food that is "conventionally" grown with the use of chemicals.</p>
 <p><a href="http://www.mayoclinic.com/health/organic-food/NU00255">More Info</a></p>
@@ -186,7 +186,7 @@
 
 {26
 
-<p><strong>26. Is there a dark side to artificial sweeteners? Yes or No</strong>?</p>
+<p><strong>26. Is there a dark side to artificial sweeteners? Yes or No?</strong></p>
 26}
 <p>Yes.&nbsp; Current findings suggest caution about overall sweetening of the diet is warranted, regardless of whether the sweetener provides energy (calories) or not.&nbsp; For the original journal article, search "artificial sweeteners endocrinology." For pregnant women who have PKU (phenylketonuria), artificial sweetener (aspartame) use has been linked to birth defects.&nbsp; Click below for artificial sweeteners' dark side.</p>
 <p><a href="http://www.sciencedaily.com/releases/2013/07/130710122000.htm?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+sciencedaily%2Fhealth_medicine%2Fdiabetes+%28ScienceDaily%3A+Health+%26+Medicine+News+--+Diabetes%29">More Info</a></p>

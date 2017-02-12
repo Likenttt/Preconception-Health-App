@@ -1,11 +1,20 @@
 {0
-<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Mental Health</b></span></p>
-<p>There is no health without mental health. Mental health is as important as physical health in fact the two are closely linked.&nbsp; Mental illness can worsen many diseases including diabetes, cancer, cardiovascular (heart) disease, asthma and obesity. Mental health is a key to good health and is very important for good preconception health.&nbsp; The lack of good living situations such as adequate housing, safe neighborhoods, good jobs and wages, quality education and access to quality health care also contribute to poor health.&nbsp; Also, these adverse living conditions are compounded by the long term effects of racism and sexism.</p>
+<p class="Body" style="text-align: center;" align="center"><em><span style="font-size: 20.0pt;"><b>Mental Health</b><br>
+There is no health without mental health. Mental health is as important 
+as physical health in fact the two are closely linked.&nbsp; Mental illness can 
+worsen many diseases including diabetes, cancer, cardiovascular (heart) disease,  
+asthma and obesity. Mental health is a key to good health and is very important for  
+good preconception health.&nbsp; The lack of good living situations such as adequate  
+housing, safe neighborhoods, good jobs and wages, quality education and access to 
+quality health care also contribute to poor health.&nbsp; Also, these adverse living  
+conditions are compounded by the long term effects of racism and sexism.</span></p>
 0}
 {1
-<p><strong>1. Is mental illness a medical condition? Yes or No?</strong></p>
+<p><strong>1. Is mental illness a medical condition? Yes or No?</strong><br></p>
 
-<p>Yes, mental illness is a medical condition.&nbsp; Just as lung disease is a disorder of the lungs, mental illness is a disorder of the brain.&nbsp; Mental illness disrupts a person's thinking, feeling, mood, ability to relate to others and daily functioning.&nbsp; It often results in a problem in coping with the demands of life.&nbsp; Press This link for help.</p>
+<p>Yes, mental illness is a medical condition. Just as lung disease is a disorder of the lungs, mental 
+illness is a disorder of the brain. Mental illness disrupts a person's thinking, feeling, mood, ability to relate 
+to others and daily functioning. It often results in a problem in coping with the demands of life. Press This link for help.</p>
 <p><a href="http://www.mentalhealth.gov/basics/what-is-mental-health/">More Info</a></p>
 1}
 {2
@@ -13,177 +22,246 @@
 
 <li><strong>a.) See their health care provider</strong></li>
 <li><strong>b.) Talk to someone they trust</strong></li>
-<li><strong>c.) Stay silent and self-medicate with a substance of choice and hope the pain goes away</strong></li>
+<li><strong>c.) Stay silent and self-medicate with a substance of choice and hope the pain goes away</strong><br></li>
 
-<p>a.) and b.) They could talk to a health care provider, family member, friend or someone else they trust. Having a mental health problem is nothing to be ashamed of. A person's mental wellbeing can be damaged by their life situation and/or they may have a physical or chemical problem with their brain. If a person gets help, they may get better or improve enough to manage the illness.&nbsp; Call 800-662-HELP for free, confidential treatment referrals and information 24/7, in English or Spanish.&nbsp; For professional help in your region press:</p>
+<p>a.) and b.) They could talk to a health care provider, family member, friend or someone else they trust. Having a mental 
+health problem is nothing to be ashamed of. A person's mental wellbeing can be damaged by their life situation and/or they 
+may have a physical or chemical problem with their brain. If a person gets help, they may get better or improve enough to 
+manage the illness. Call <a href="tel:+1800-662-HELP">800-662-HELP</a> for free, confidential treatment referrals and information 24/7, in English or Spanish.
+For professional help in your region press:</p>
 <p><a href="http://findtreatment.samhsa.gov/">More Info</a></p>
 2}
 {3
-<p><strong>3. What are some tips to help a family member or friend who may have a mental illness</strong>?</p>
+<p><strong>3. What are some tips to help a family member or friend who may have a mental illness</strong>?<br></p>
 
 <p>Answer: Talk with them.&nbsp; Encourage your family member or friend to get professional help.&nbsp; Take care of yourself. Press the link below Note questions 3-7 for family and friends.&nbsp; If you want an information helpline, call 800-950-NAMI (6264) Mon-Fri 10am to 6pm ET.</p>
 <p><a href="http://www.namiyolo.org/tipsforfamilies.html">More Info</a></p>
 3}
 {4
-<p><strong>4. Can poor mental health have an influence on how a pregnancy turns out?&nbsp; Yes or No</strong>?</p>
+<p><strong>4. Can poor mental health have an influence on how a pregnancy turns out?&nbsp; Yes or No</strong>?<br></p>
 
 <p>Yes.&nbsp; Poor preconception mental health is associated with increased odds of experiencing a pregnancy complication, having a low birth weight baby and a non-live birth. Press <a href="http://www.ncbi.nlm.nih.gov/pubmed/22124801">More Info</a> to see more from this study.</p>
 4}
 {5
-<p><strong>5. Can false beliefs, or stigma, about people with a mental illness cause problems for them? Yes or No?</strong></p>
+<p><strong>5. Can false beliefs, or stigma, about people with a mental illness cause problems for them? Yes or No?</strong><br></p>
 
 <p>Yes. False beliefs about people with a mental illness can make their situation worse.</p>
 <p><a href="http://www.mayoclinic.com/health/mental-health/MH00076">More Info</a></p>
 5}
 {6
-<p><strong>6. Mental illness and prolonged stress are linked to diabetes but not to other diseases.&nbsp; True or False?</strong></p>
+<p><strong>6. Mental illness and prolonged stress are linked to diabetes but not to other diseases.&nbsp; True or False?</strong><br></p>
 
 <p>False, Mental illness and prolonged stress are linked to diabetes, obesity, heart disease, stroke, cancer, accelerated aging, sexual problems, Alzheimer's and premature death.&nbsp; These health problems are caused or worsened by the harmful chemical changes in the body caused by the mental illness.&nbsp; Also, a person with a mental illness or who is experiencing stress day in and day out is less likely to make smart lifestyle choices like healthy eating, regular physical activity and not smoking.</p>
 <p><a href="http://www.cdc.gov/mentalhealth/information/chronic-disease.htm">More Info</a></p>
 6}
 {7
-<p><strong>7. What is a recommended activity by most health care professionals to help manage a mental health problem?</strong></p>
+<p><strong>7. What is a recommended activity by most health care professionals to help manage a mental health problem?</strong><br></p>
 
 <p>Answer: Physical activity is important for mental fitness too.&nbsp; Check out the link below on the value of exercise for mental health.</p>
 <p><a href="http://www.mayoclinic.org/diseases-conditions/depression/in-depth/depression-and-exercise/art-20046495">More Info</a></p>
 7}
 {8
-<p><strong>8. What are other activities that can help someone manage stress and anxiety?&nbsp;</strong></p>
+<p><strong>8. What are other activities that can help someone manage stress and anxiety?&nbsp;</strong><br></p>
 
 <p>Take walks, in nature if possible; practice yoga; listen to music; meditate or learn other relaxation techniques. We all need to smile, laugh and have peace of mind as a regular part of our lives.</p>
 <p><a href="http://www.adaa.org/living-with-anxiety/managing-anxiety/tips">More Info</a></p>
 8}
 {9
-<p><strong>9. Is your body image positive or negative?&nbsp;</strong></p>
+<p><strong>9. Is your body image positive or negative?</strong><br></p>
 
-<p>If your answer is "negative" you are not alone.&nbsp; Many women in the United States feel pressured to measure up to a certain social and cultural ideal of attractiveness which can lead to poor body image.&nbsp; Women are constantly bombarded with Barbie-Doll-like images and men, the dude with the washboard abs.&nbsp; By presenting an ideal that is so difficult to achieve and maintain, the cosmetic and diet industries are assured of growth and profits.&nbsp; It is no accident that youth and thinness are increasingly promoted as an essential criterion for beauty. The message we're hearing is either 'all women need to lose weight' or that the natural aging process is a disastrous fate.&nbsp; If you would like to have a free, confidential conversation with a counselor at the National Eating Disorders Association (NEDA), call 800-931-2237 Mon-Thu 9am to 9pm,&nbsp; Fri 9am to 5pm ET for guidance, information and resources in your community.&nbsp; Check out&nbsp; the NEDA website, proud2bme.&nbsp; You can also search for referrals online.</p>
+<p>If your answer is "negative" you are not alone.&nbsp; Many women in the United States feel pressured to measure 
+up to a certain social and cultural ideal of attractiveness which can lead to poor body image.&nbsp; Women are constantly 
+bombarded with Barbie-Doll-like images and men, the dude with the washboard abs. By presenting an ideal that is so 
+difficult to achieve and maintain, the cosmetic and diet industries are assured of growth and profits.&nbsp; It is no accident 
+that youth and thinness are increasingly promoted as an essential criterion for beauty. The message we're hearing is either  
+'all women need to lose weight' or that the natural aging process is a disastrous fate. If you would like to have a free, 
+confidential conversation with a counselor at the National Eating Disorders Association (NEDA), call <a href="tel:+1800-931-2237">800-931-2237</a> Mon-Thu  
+9am to 9pm Fri 9am to 5pm ET for guidance, information and resources in your community. Check out the NEDA website, 
+<a href="www.proud2bme.org">proud2bme.org</a>. You can also search for referrals online.</p>
 <p><a href="http://proud2bme.org/category/your-health">More Info</a></p>
 9}
 {10
-<p><strong>10. Can you think of or imagine a community project that could have a positive influence on a person with a mental illness and at the same time, helps solve other community health problems?&nbsp;</strong></p>
+<p><strong>10. Can you think of or imagine a community project that could have a positive influence on a person with a mental illness and at the same time, helps solve other community health problems?</strong><br></p>
 
 <p>There are many things that can be done to create positive community outcomes by putting two or more individuals or groups together.&nbsp; The product of this "mutualistic" (good for all) relationship can be a positive boost of health for all parties and also for the community.&nbsp; For example, Connections: Health and Wellness Advocacy, a mental health agency in Cleveland, Ohio has started Urban Goodness, an urban farm on the grounds of an agency serving women in an area of city that struggles with access to fresh fruits and vegetables.\n\n Urban Goodness has provided at least 20 people with a unique opportunity to learn marketable job skills with hands-on farm-related work despite the fact that they suffer from severe mental illnesses.&nbsp; The program benefits the inner-city neighborhood in which it is located by providing fresh produce, and it plans to promote home food gardens in the neighborhood.&nbsp; The urban farm is located on the grounds of the Hitchcock Center for Women, a substance abuse intervention agency which is another player in this positive partnership.&nbsp; Goodness grows!&nbsp; This is a Win-Win-Win for the individuals with a mental illness, the women of the Women's Center and the neighborhood people with a positive result for the city of Cleveland!&nbsp; Look for opportunities to create or be part of smart, mutually beneficial projects.&nbsp; Check out "More Info" for Connections and Urban Goodness.</p>
 <p><a href="http://www.neohs.org/pages/ugnews.php">More Info</a></p>
 10}
 {11
-<p><strong>11. Can mental illness and chronic diseases be made worse for someone who has financial hardships?&nbsp;</strong></p>
+<p><strong>11. Can mental illness and chronic diseases be made worse for someone who has financial hardships?</strong><br></p>
 
-<p>Yes. The stress of financial hardship and the life environment that usually accompanies being poor, can contribute to mental illness and chronic disease.&nbsp; In turn, this poorer mental and physical health can make it difficult mentally and physically to achieve financial stability.&nbsp; An opportunity is needed for all.&nbsp; For many people, the vicious cycle of poverty, chronic disease and mental illness must be broken to experience good health.&nbsp; Check out "More Info" on the connection of poverty to mental illness.</p>
+<p>Yes. The stress of financial hardship and the life environment that usually accompanies being poor, can contribute to mental illness and chronic disease. In turn, this poorer mental and physical health can make it difficult mentally and physically to achieve financial stability.&nbsp; An opportunity is needed for all.&nbsp; For many people, the vicious cycle of poverty, chronic disease and mental illness must be broken to experience good health.&nbsp; Check out "More Info" on the connection of poverty to mental illness.</p>
 <p><a href="http://www.zerohedge.com/news/2013-08-22/poverty-mental-illness-infographic">More Info</a></p>
 11}
 {12
-<p><strong>12. Does the ongoing stress related to the discrimination of racial and ethnic minorities contribute to health inequalities such as higher rates of diabetes, obesity, heart disease and poorer birth results.&nbsp; Yes or No?&nbsp;</strong></p>
+<p><strong>12. Does the ongoing stress related to systemic racism  contribute to health inequalities such as higher rates of diabetes, obesity, heart disease and poorer birth results.&nbsp; Yes or No?</strong><br></p>
 
-<p>Yes.&nbsp; Racial and ethnic minorities have health that is worse overall than the health of white, non-Hispanic Americans.&nbsp; Health disparities may stem from economic situations, education, geography and neighborhood, environmental exposures, lower-quality health care, inadequate access to care, inability to navigate the system, provider ignorance, bias or stress.&nbsp; Check out the link below for the role of prolonged stress on racial and ethnic minorities.</p>
+<p>Yes.&nbsp; Racial and ethnic minorities have health that is worse overall than the health of white, non-Hispanic Americans. Health disparities may stem from economic situations, education, geography and neighborhood, environmental exposures, lower-quality health care, inadequate access to care, inability to navigate the system, provider ignorance, bias or stress.&nbsp; Check out the link below for the role of prolonged stress on racial and ethnic minorities.</p>
 <p><a href="http://www.apa.org/topics/health-disparities/fact-sheet-stress.aspx">More Info</a></p>
 12}
+
 {13
-<p><strong>13. College and graduate school educated black women have a higher infant mortality rate than white mothers who did not finish high school? True or False? &nbsp;</strong></p>
+<p><strong>13. True or False? African American and Native American women have low birth weight and premature babies at the same rate as white women?</strong><br></p>
+
+<p>African Americans and Native American women are at least twice as likely to have low birth weight babies or babies born too early compared to white women.  These poor birth outcomes put the baby at higher risk of health problems and infant death. Go to "More Info" to learn about the National Perinatal Taskforce, a movement  to reduce racial disparities in birth outcomes in the USA</p>
+<p><a href="https://vimeo.com/119447767">More Info</a></p>
+
+13}
+
+{14
+<p><strong>14. College and graduate school educated black women have a higher infant mortality rate than white mothers who did not finish high school? True or False?</strong><br></p>
 
 <p>True. Studies show that the "weathering" effect of racism on black women, even though they are highly educated, contributes to more preterm, low birth weight and infant deaths than white women experience, even if the white women did not complete high school.&nbsp; All factors, including genetics, were accounted for in this research.&nbsp; Click below a brief video clip of Michael Lu, M.D., explaining that a "life course approach" to overall health is needed to eliminate this disparity.&nbsp; You may have to click "More Info" twice to get the link.</p>
 <p><a href="http://www.unnaturalcauses.org/video_clips_detail.php?res_id=70">More Info</a></p>
-13}
-{14
-<p><strong>14. What is post-traumatic stress disorder (PTSD)?</strong></p>
 
-<p>The Cleveland Clinic defines PTSD as an anxiety disorder that a person can develop after experiencing or witnessing a traumatic event or life threatening situation.&nbsp; A traumatic event can be any situation that causes stress, horror, helplessness, serious injury, or the threat of serious injury or death.&nbsp; The March of Dimes states that high levels of stress can also cause high blood pressure, which increases the chance of preterm labor or a low birth weight infant. &nbsp;PTSD Hotlines: Veterans Crisis Line: 800-273-TALK (8255) Veterans press 1 National Veterans Foundation Hotline: 888-777-4443&nbsp; Rape, Abuse and Incest National Network: 800-656-4673 National Domestic Violence Hotline: 800-799-7233 National Council on Alcoholism and Drug Dependence Hope Line: 800-622-2255&nbsp; Gulf War Veterans Hotline: 800-796-9699 Click the link below for research on stress, PTSD and pregnancy outcomes.</p>
-<p><a href="https://www.nichd.nih.gov/health/topics/preconceptioncare/conditioninfo/pages/stress.aspx">More Info</a></p>
 14}
+
 {15
-<p><strong>15. Since the economic recovery has started, how has the monetary gain been shared by Americans?</strong></p>
+<p><strong>15. What aspects of life are affected by the systemic racism of African Americans and other minorities?</strong><br></p>
+
+<p>Health, Wealth, Employment, Housing Discrimination, Government Surveillance, Incarceration, Drug Arrests and Infant Mortality. Anything else? Yes, systemic racism is really a thing. Check out "More Info" for an 8 part video series on What is Systemic Racism.</p>
+<p><a href="https://www.raceforward.org/videos/systemic-racism">More Info</a></p>
+
+15}
+
+{16
+<p><strong>16. Can you name one action white people can do to end racism?</strong><br></p>
+
+<p>Here are some: Listen to, understand and ally with people who report personal and systemic racism. If you see something, say something. Combat racism through national-level political channels. Go to "More Info" for more ways to fight racism on an individual, community and national level</p>
+<p><a href="http://sociology.about.com/od/Current-Events-in-Sociological-Context/fl/9-Things-You-Can-Do-to-Help-End-Racism.htm">More Info</a></p>
+
+16}
+
+{17
+<p><strong>17. What can you do to protect the victim of a racist verbal attack?</strong><br></p>
+
+<p>Don't be a bystander. Stand between the attacker and the victim. Film it and report it. Stick around for the victim. Tackle the culture of racism. Actually fight racism. Go to "More Info" for a video on these protective actions.</p>
+<p><a href="http://www.racialjusticenetwork.co.uk/5-ways-to-disrupt-racism/">More Info</a></p>
+
+17}
+
+
+{18
+<p><strong>18. What is post-traumatic stress disorder (PTSD)?</strong><br></p>
+
+<p>The Cleveland Clinic defines PTSD as an anxiety disorder that a person can develop after experiencing or witnessing a traumatic 
+event or life threatening situation. A traumatic event can be any situation that causes stress, horror, helplessness, serious injury, 
+or the threat of serious injury or death.The March of Dimes states that high levels of stress can also cause high blood pressure, 
+which increases the chance of preterm labor or a low birth weight infant. PTSD Hotlines: Veterans Crisis Line: 
+<a href="tel:+1800-273-TALK">800-273-TALK (8255) </a> Veterans press 1 National Veterans Foundation Hotline: 
+<a href="tel:+1888-777-4443">888-777-4443</a> Rape, Abuse and Incest National Network: <a href="tel:+1800-656-4673">800-656-4673</a> 
+National Domestic Violence Hotline: <a href="tel:+1800-799-7233">800-799-7233</a> National Council on Alcoholism and Drug Dependence Hope Line: 
+<a href="tel:+1800-622-2255">800-622-2255</a> Gulf War Veterans Hotline: <a href="tel:+1800-796-9699">800-796-9699</a> 
+Click the link below for research on stress, PTSD and pregnancy outcomes.</p>
+<p><a href="https://www.nichd.nih.gov/health/topics/preconceptioncare/conditioninfo/pages/stress.aspx">More Info</a></p>
+18}
+{19
+<p><strong>19. Since the economic recovery has started, how has the monetary gain been shared by Americans?</strong></p>
 
 <li><strong>a.) Evenly shared with about 95% of the financial gain going to about 95% of Americans</strong></li>
 <li><strong>b.) Not shared much at all, with 95% of the gains going to 25% of the wealthier Americans</strong></li>
-<li><strong>c.) Inequality on steroids with 95% of the gains going to, the wealthiest of the wealthy, 1 (one) % of Americans</strong></li>
+<li><strong>c.) Inequality on steroids with 95% of the gains going to, the wealthiest of the wealthy, 1 (one) % of Americans</strong><br></li>
 
 <p>c.) Almost all of the wealth in the recovery has gone to the wealthiest 1% of Americans and the gap in the inequality in pay from CEO to the average worker continues to get wider. This is pitiful when the reality is that millions of Americans are struggling and many are desperate.&nbsp; This is another reason why there is more ongoing, day-to-day stress with Americans living in poverty and with the fading American middle class.&nbsp; This absurd, unequal system of maintaining poverty contributes to poor overall health and ultimately, poor birth outcomes.</p>
-15}
-{16
-<p><strong>16. How much are women paid compared to men today for equal work?</strong></p>
+19}
+{20
+<p><strong>20. How much are women paid compared to men today for equal work?</strong></p>
 
 <li><strong>a.) 100%, the same as men</li>
 <li><strong>b.) 89% of what men make</li>
-<li><strong>c.) 77% of what men make</li>
+<li><strong>c.) 79% of what men make<br></li>
 
-<p>c.) Today, women earn about 77 cents on the dollar compared to men, a gap that results in hundreds of thousands of dollars in lost wages, retirement and social security. For African American women, Latinas and women with disabilities, the pay gap is even bigger.\n\n If you want to know more about the Equal Pay Act or if you are not receiving equal pay for equal work, you can call the Department of Labor at 866-487-2365 for help or go to the link below. Equal pay information is available in multiple languages.</p>
+<p>c.) Today, women earn about 79 cents on the dollar compared to men, a gap that results in hundreds of thousands of dollars in lost wages, </p>
+<p>retirement and social security. For African American women, Latinas and women with disabilities, the pay gap is even bigger. If you want to know </p>
+<p>more about the Equal Pay Act or if you are not receiving equal pay for equal work, you can call the Department of Labor at <a href="tel:+1866-487-2365">866-487-2365</a> for help </p>
+<p>or go to the link below. Equal pay information is available in multiple languages.</p>
 <p><a href="http://www.dol.gov/equalpay/equalpay-employee.pdf">More Info</a></p>
-16}
-{17
-<p><strong>17. Looking for a career? Can you name a few of today</strong><strong>'s 100 best careers with a living wage</strong>?</p>
+20}
+{21
+<p><strong>21. Looking for a career? Can you name a few of today</strong><strong>'s 100 best careers with a living wage</strong>?<br></p>
 
 <p>Dentist, Registered Nurse, Pharmacist, Computer Systems Analyst and Physician are the top five</p>
 <p><a href="http://money.usnews.com/careers/best-jobs/rankings/the-100-best-jobs">More Info</a></p>
-17}
-{18
-<p><strong>18. Where would someone find a mentor or a life coach? If you want to be a mentor or a life coach, where would you find more about this opportunity?&nbsp;</strong></p>
+21}
+{22
+<p><strong>22. Where would someone find a mentor or a life coach? If you want to be a mentor or a life coach, where would you find more about this opportunity?&nbsp;</strong><br></p>
 
-<p>Search:&nbsp; Your city or region United Way mentorship, the National Association of Professional Women, League of Black Women,&nbsp; Big Brothers Big Sisters, The Girls and Boys Club, YWCA, Girls, Inc., Girl Scouts,&nbsp; Kids at Hope, Mental Health Association, your literacy council, your school district mentoring program, Just Us Girls, etc.&nbsp; Keep looking till you find what you want.&nbsp; If you would like to have a mentor or be one, use the "Become a Mentor" button. To find a partial list of mentoring organizations near you. Tip: If you are a mentor, sincerely listen to the young person.&nbsp; This demonstrates respect, a quality that young people often find missing in adults.&nbsp; If you are being mentored, be thankful and show your respect by listening.</p>
+<p>Search: Your city or region United Way mentorship, the National Association of Professional Women, League of Black Women, Big Brothers Big Sisters, The Girls and Boys Club, YWCA, Girls, Inc., Girl Scouts,  Kids at Hope, Mental Health Association, your literacy council, your school district mentoring program, Just Us Girls, etc. Keep looking till you find what you want. If you would like to have a mentor or be one, use the "Become a Mentor" button. To find a partial list of mentoring organizations near you. Tip: If you are a mentor, sincerely listen to the young person. This demonstrates respect, a quality that young people often find missing in adults. If you are being mentored, be thankful and show your respect by listening.</p>
 <p><a href="http://www.mentoring.org/get_involved/become_a_mentor/">More Info</a></p>
-18}
-{19
-<p><strong>19. Is attending a community college a good option for obtaining the career training needed for a living wage job or the skills to start your own business?&nbsp;</strong></p>
+22}
+{23
+<p><strong>23. Is attending a community college a good option for obtaining the career training needed for a living wage job or the skills to start your own business?&nbsp;</strong><br></p>
 
-<p>Yes.&nbsp; People with two year community college skilled training degrees are creating 21st century careers.&nbsp; Community college yearly tuition is usually less than a 4 year college with half the time devoted to the training.&nbsp; This leaves a community college grad with less debt and a marketable career, two years sooner. Help is available from community college counselors and/or search your state workforce (e.g. 'Florida workforce') for your local Workforce Board for career development and employment help.&nbsp; You can also search doleta.gov/jobseekers for job and career information.&nbsp; Go to a directory of free open online courses from top universities at www.mooc-list.com.&nbsp; Learn at your own schedule and pace.&nbsp; Check out Edx.org, coursera.org, udacity.com, openculture.com, degreesearch.org or search "free on-line courses".For a list of all of the two year colleges in the U.S. by state:</p>
+<p>Yes. People with two year community college skilled training degrees are creating 21st century careers.  
+Community college yearly tuition is usually less than a 4 year college with half the time devoted to the 
+training. This leaves a community college grad with less debt and a marketable career, two years sooner.  
+Help is available from community college counselors and/or search your state workforce (e.g. 'Florida workforce') 
+for your local Workforce Board for career development and employment help. You can also search doleta.gov/jobseekers for job and career information.  
+Go to a directory of free open online courses from top universities at <a href="www.mooc-list.com">www.mooc-list.com. </a>Learn at your own schedule and pace.   
+Check out <a href="Edx.org">Edx.org, </a> <a href="coursera.org">coursera.org</a>, <a href="udacity.com">udacity.com</a>, <a href="openculture.com">openculture.com</a>, <a href="degreesearch.org">degreesearch.org</a> 
+or search "free on-line courses".For a list of all of the two year colleges in the U.S. by state: 
+Support the policy of free tuition for public colleges for low to middle income students. We all win with a well educated population. For a list of all of the two year colleges in the U.S. by state, press "More Info"</p>
 <p><a href="http://www.applyingtoschool.com/forms/ComCol-State.aspx">More Info</a></p>
-19}
-{20
-<p><strong>20. What is a Women</strong><strong>'s Study Program?</strong></p>
+23}
+
+
+{24
+<p><strong>24. What is a Women</strong><strong>'s Study Program?</strong><br></p>
 
 <p>Women's Study Programs, also known as Feminist or Gender Studies, are college based programs that explore politics, society, media and history from women's and/or feminist perspectives.&nbsp; The field researches and critiques social norms of gender, race, class, sexuality and other social inequalities.&nbsp; This training would help a woman be a leader in the movement toward gender equality and women's rights.&nbsp; Click "More Info" for an alphabetical list by name of schools.&nbsp; Search "Women's Study Programs Artemis" for a list by state.&nbsp; Links to online courses are included.</p>
 <p><a href="http://userpages.umbc.edu/~korenman/wmst/programs.html">More Info</a></p>
-20}
-{21
-<p><strong>21. What is the largest woman</strong><strong>'s organization in the United States whose goal is </strong><strong>"to take action</strong><strong>"</strong><strong> to bring about equality for all women?</strong></p>
+24}
+{25
+<p><strong>25. What is the largest woman</strong><strong>'s organization in the United States whose goal is </strong><strong>"to take action</strong><strong>"</strong><strong> to bring about equality for all women?</strong><br></p>
 
 <p>NOW! The National Organization for Women is the largest organization of feminist activists in the United States.&nbsp; Click "More Info" and do a NOW search of "young feminists" and check out "Young Feminists and Allies Virtual NOW".</p>
 <p><a href="http://now.org/about/">More Info</a></p>
-21}
-{22
-<p><strong>22. Name a world-wide organization of men whose purpose is to work for equality for women</strong>?</p>
+25}
+{26
+<p><strong>26. Name a world-wide organization of men whose purpose is to work for equality for women</strong>?<br></p>
 
 <p>HeforShe is a United Nations sponsored solidarity movement for gender equality that brings together one half of humanity in support of the other half of humanity, for the benefit of all.&nbsp; Click "More Info" on how to take action and make a commitment to take action against all forms of violence and discrimination faced by women and girls. <a href="http://www.heforshe.org/">More Info</a></p>
-22}
-{23
-<p><strong>23. What is the percentage of women who are in our current U.S. House of Representatives?</strong></p>
+26}
+{27
+<p><strong>27. What is the percentage of women who are in our current U.S. House of Representatives?</strong></p>
 
 <li><strong>a.) 50%, the same number of men as women</strong></li>
 <li><strong>b.) 34% women and 66% men</strong></li>
-<li><strong>c.) 19% women and 81% men</strong></li>
+<li><strong>c.) 19% women and 81% men</strong><br></li>
 
-<p>c.) 19% women. Men have a huge gender advantage in Congress and a large majority in all of the state legislatures in the country. How can the rights and interests of women be honored in a "representative" democracy with women being so grossly unrepresented in Congress and other levels of government?&nbsp; Not going to happen.</p>
+<p>After  the 2016 election, women still only hold 19% of the seats in the House of Representatives and 20% in the Senate. The USA is 97th out of 193 countries when it comes to gender equity in federal representation.  Men not only have a large majority in Congress but also dominate  state legislatures in the country.  How can the rights and interests of women be honored in a "representative" democracy with women being so grossly unrepresented in Congress and other levels of government?  Not going to happen.  Go to "More Info" on training girls to lead.</p>
 <p><a href="http://tag.rutgers.edu/unveiling-teach-a-girl-to-lead/">More Info</a></p>
-23}
-{24
-<p><strong>24. Where can you learn about becoming more active in the cause that promotes gender equality and justice?</strong></p>
+27}
+{28
+<p><strong>28. Where can you learn about becoming more active in the cause that promotes gender equality and justice?</strong><br></p>
 
 <p>One movement that promotes equality and justice for all is the Representation Project.&nbsp; It inspires individuals to challenge the way our culture treats people because they are female or male.&nbsp; Their goal is to ultimately transform our culture so everyone, regardless of gender, race, class, age, sexual orientation or circumstances can fulfill their potential.&nbsp; Check-out the short video 'Rewrite the Story'.</p>
 <p><a href="http://rhrealitycheck.org/video/2014/04/11/representation-project-asks-us-think-limitations-gender-identities-society-gives-us/">More Info</a></p>
-24}
-{25
-<p><strong>25. True or False: Using the democratic right to vote in elections can actually improve a voter</strong><strong>'s health?</strong></p>
+28}
+{29
+<p><strong>29. True or False: Using the democratic right to vote in elections can actually improve a voter</strong><strong>'s health?</strong><br></p>
 
 <p>True.&nbsp; Voting is good for our health! Part of overall health is to empower ourselves so we exercise control over the things in life that are under our control, such as VOTING!&nbsp; Research says expressing your right to vote may help promote good mental health and, in turn, good physical health..&nbsp; The people who benefit most are those who are disadvantaged in health, income, quality of community or job status.&nbsp; Check out this research.</p>
 <p><a href="http://www.webmd.com/mental-health/features/voting-counts-as-healthy-habit">More Info</a></p>
-25}
-{26
-<p><strong>26. Are you 17 or older and registered to vote? Yes or No</strong>?</p>
+29}
+{30
+<p><strong>30. Are you 17 or older and registered to vote? Yes or No</strong>?<br></p>
 
 <p>You can register to vote by going to the online service provided by the U.S. government or call your local county Supervisor of Elections office.&nbsp; They will send you a registration form.&nbsp; You can also get a form from them on line or you can go to your local elections office to register.&nbsp; If you have laws in your state that make it difficult to vote, consider joining others who may be challenging these laws.&nbsp; Since voting is the essence of our democracy, it should be the easiest action to do so no American is excluded! Search "aclu promoting access ballot" and find the ACLU office in your state or region.&nbsp; The ACLU works on protecting voters rights and they assist U.S. citizens, who are former felons to get their civil and voting rights back.</p>
 <p><a href="http://www.usa.gov/Citizen/Topics/Voting/Register.shtml">More Info</a></p>
-26}
-{27
-<p><strong>27. What is a very simple relaxation technique that can help manage stress, costs nothing and can be practiced throughout the day?</strong></p>
+30}
+{31
+<p><strong>31. What is a very simple relaxation technique that can help manage stress, costs nothing and can be practiced throughout the day?</strong></p>
 
 <li><strong>a.) Day dreaming</strong></li>
 <li><strong>b.) Napping</strong></li>
-<li><strong>c.) Focusing the mind on your breath</strong></li>
+<li><strong>c.) Focusing the mind on your breath</strong><br></li>
 
 <p>c.) Focusing the mind on the breath is a good relaxation technique. Our breath is natural, always available to pay attention to, always in the present moment and is never judgmental.&nbsp; Even a few minutes of quiet focus can be helpful.&nbsp; Here is how to do a breath counting technique.&nbsp; Sit straight in a comfortable chair, preferably in a quiet place, eyes closed.&nbsp; Become aware of your breathing.&nbsp; When you are in touch with the sensation of breathing, silently count one as you breathe out, two as you breathe in, three as you breathe out.&nbsp; Continue until you reach ten, and then start over again.&nbsp; When your mind drifts, that's ok.&nbsp; Just start again.</p>
 <p><a href="http://marc.ucla.edu/body.cfm?id=22">More Info</a></p>
-27}
-{28
-<p><strong>28. Do you know one of 10 scientifically proven ways to make someone happier?&nbsp; Yes or No</strong>?</p>
+31}
+{32
+<p><strong>32. Do you know one of 10 scientifically proven ways to make someone happier?&nbsp; Yes or No</strong>?<br></p>
 
 <p>Exercise is proven to help overcome depression, and getting enough sleep helps overcome negative feelings.&nbsp; Whether you knew or not, go to the link below for eight other ways.</p>
 <p><a href="http://blog.bufferapp.com/10-scientifically-proven-ways-to-make-yourself-happier">More Info</a>
-28}
+32}

@@ -34,7 +34,9 @@ DISTFILES += \
     android/res/values/libs.xml \
     android/build.gradle \
     android/gradle/wrapper/gradle-wrapper.properties \
-    android/gradlew.bat
+    android/gradlew.bat \
+    R/ADA.txt \
+    R/ADQ.txt
 
 RESOURCES += \
     resource.qrc
